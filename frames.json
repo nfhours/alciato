@@ -1,0 +1,8195 @@
+[
+ {
+  "frame": "frame_0001.jpg",
+  "id": "fm0001",
+  "status": "noPlate"
+ },
+ {
+  "frame": "frame_0002.jpg",
+  "id": "fm0002",
+  "status": "noPlate"
+ },
+ {
+  "frame": "frame_0003.jpg",
+  "id": "fm0003",
+  "status": "noPlate"
+ },
+ {
+  "frame": "frame_0004.jpg",
+  "id": "fm0004",
+  "status": "noPlate"
+ },
+ {
+  "frame": "frame_0005.jpg",
+  "id": "fm0005",
+  "status": "noPlate"
+ },
+ {
+  "frame": "frame_0006.jpg",
+  "id": "fm0006",
+  "status": "noPlate"
+ },
+ {
+  "frame": "frame_0007.jpg",
+  "id": "fm0007",
+  "status": "ok",
+  "page_box": [
+   0.32,
+   0.24,
+   96.05,
+   94.78
+  ],
+  "kinds": [
+   "page"
+  ],
+  "holes": 0,
+  "labels": [
+   "Front"
+  ],
+  "bytes": 2277536,
+  "tails": [],
+  "initials": [],
+  "role": "титул/вступление"
+ },
+ {
+  "frame": "frame_0008.jpg",
+  "id": "fm0008",
+  "status": "нет рамки страницы",
+  "labels": [
+   "Буквица I"
+  ]
+ },
+ {
+  "frame": "frame_0009.jpg",
+  "id": "fm0009",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.49,
+   97.69,
+   88.57
+  ],
+  "kinds": [
+   "initial",
+   "page",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "Гравюра (рамка, внетри текст)",
+   "Буквица E",
+   "Текстовая область для вычитания"
+  ],
+  "bytes": 1601722,
+  "tails": [],
+  "initials": [
+   "Буквица E"
+  ],
+  "role": "титул/вступление"
+ },
+ {
+  "frame": "frame_0010.jpg",
+  "id": "fm0010",
+  "status": "ok",
+  "page_box": [
+   1.1,
+   2.53,
+   97.01,
+   93.59
+  ],
+  "kinds": [
+   "page",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "Гравюра рамка + текст внеутри",
+   "Текстовая область для вычитания"
+  ],
+  "bytes": 1580796,
+  "tails": [],
+  "initials": [],
+  "role": "титул/вступление"
+ },
+ {
+  "frame": "frame_0011.jpg",
+  "id": "fm0011",
+  "status": "ok",
+  "page_box": [
+   2.09,
+   3.1,
+   94.59,
+   90.91
+  ],
+  "kinds": [
+   "page",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "Гравюра рамка + текст внеутри",
+   "Область текста для вычитания"
+  ],
+  "bytes": 1668828,
+  "tails": [],
+  "initials": [],
+  "role": "титул/вступление"
+ },
+ {
+  "frame": "frame_0012.jpg",
+  "id": "fm0012",
+  "status": "ok",
+  "page_box": [
+   0.89,
+   2.62,
+   98.55,
+   92.87
+  ],
+  "kinds": [
+   "page",
+   "tail",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "Гравюра рамка + текст внеутри",
+   "Текстовая область для вычитания",
+   "концовка"
+  ],
+  "bytes": 1828340,
+  "tails": [
+   [
+    23.77,
+    65.29,
+    49.24,
+    12.13
+   ]
+  ],
+  "initials": [],
+  "role": "титул/вступление"
+ },
+ {
+  "frame": "frame_0013.jpg",
+  "id": "fm0013",
+  "status": "ok",
+  "page_box": [
+   1.94,
+   1.97,
+   96.4,
+   92.61
+  ],
+  "kinds": [
+   "page",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "Гравюра",
+   "Текстовая область для вычитания"
+  ],
+  "bytes": 1627038,
+  "tails": [],
+  "initials": [],
+  "role": "титул/вступление"
+ },
+ {
+  "frame": "frame_0014.jpg",
+  "id": "fm0014",
+  "status": "ok",
+  "page_box": [
+   0.6,
+   2.76,
+   98.04,
+   92.44
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "Гравюра Mediolanum",
+   "Текстовая область для вычитания",
+   "Mediolanum без рамки и текста"
+  ],
+  "pic_box": [
+   19.14,
+   14.69,
+   60.48,
+   40.53
+  ],
+  "bytes": 2677566,
+  "tails": [],
+  "initials": [],
+  "role": "титул/вступление"
+ },
+ {
+  "frame": "frame_0015.jpg",
+  "id": "fm0015",
+  "status": "ok",
+  "page_box": [
+   2.34,
+   3.24,
+   94.99,
+   92.51
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "Гравюра Nunquam procrastinandum",
+   "Текстовая область для вычитания",
+   "Nunquam procrastinando без рамки и текста"
+  ],
+  "pic_box": [
+   18.56,
+   15.27,
+   61.37,
+   43.91
+  ],
+  "bytes": 2491568,
+  "tails": [],
+  "initials": [],
+  "role": "титул/вступление"
+ },
+ {
+  "frame": "frame_0016.jpg",
+  "id": "alc10",
+  "status": "ok",
+  "page_box": [
+   4.75,
+   3.91,
+   94.58,
+   90.76
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "Гравюра In Deo ...",
+   "Текстовая область для вычитания",
+   "In Deo Laetandum без рамки и текста"
+  ],
+  "pic_box": [
+   21.51,
+   15.53,
+   61.17,
+   45.49
+  ],
+  "bytes": 2471808,
+  "tails": [],
+  "initials": [],
+  "page": 10,
+  "entry": "alc10",
+  "num": "1",
+  "motto": "In Deo lætandum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0017.jpg",
+  "id": "alc11",
+  "status": "ok",
+  "page_box": [
+   0.56,
+   3.06,
+   94.94,
+   91.51
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "Sapientia humana... без рамки и текста"
+  ],
+  "pic_box": [
+   14.36,
+   14.63,
+   65.12,
+   39.46
+  ],
+  "bytes": 2609950,
+  "tails": [],
+  "initials": [],
+  "page": 11,
+  "entry": "alc11",
+  "num": "2",
+  "motto": "Sapientia humana, stultitia est apud Deum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0018.jpg",
+  "id": "alc12",
+  "status": "ok",
+  "page_box": [
+   5.16,
+   3.26,
+   94.84,
+   89.75
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "Ficta religious без рамки и текста"
+  ],
+  "pic_box": [
+   21.94,
+   14.21,
+   63.74,
+   42.29
+  ],
+  "bytes": 2695988,
+  "tails": [],
+  "initials": [],
+  "page": 12,
+  "entry": "alc12",
+  "num": "3",
+  "motto": "Ficta religio",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0019.jpg",
+  "id": "alc13",
+  "status": "ok",
+  "page_box": [
+   0,
+   5.12,
+   94.75,
+   91.16
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "Non tibi, sed... без рамки и текста"
+  ],
+  "pic_box": [
+   13.82,
+   16.61,
+   64.14,
+   40.14
+  ],
+  "bytes": 2752736,
+  "tails": [],
+  "initials": [],
+  "page": 13,
+  "entry": "alc13",
+  "num": "4",
+  "motto": "Non tibi, sed religioni",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0020.jpg",
+  "id": "alc14",
+  "status": "ok",
+  "page_box": [
+   4.69,
+   4.25,
+   95.31,
+   89.79
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "qua dij volant eundum без рамки и текста"
+  ],
+  "pic_box": [
+   21.33,
+   15.83,
+   62.19,
+   41.91
+  ],
+  "bytes": 2582004,
+  "tails": [],
+  "initials": [],
+  "page": 14,
+  "entry": "alc14",
+  "num": "5",
+  "motto": "Quà Dij vocant eundum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0021.jpg",
+  "id": "alc15",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.61,
+   93.55,
+   91.89
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "Fidei symbolum без рамки и текста"
+  ],
+  "pic_box": [
+   14.34,
+   15.51,
+   62.64,
+   46.66
+  ],
+  "bytes": 2541732,
+  "tails": [],
+  "initials": [],
+  "page": 15,
+  "entry": "alc15",
+  "num": "6",
+  "motto": "Fidei symbolum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0022.jpg",
+  "id": "alc16",
+  "status": "ok",
+  "page_box": [
+   4.6,
+   2.92,
+   95.4,
+   90.73
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "Foedera без текста и рамки"
+  ],
+  "pic_box": [
+   22.12,
+   15.11,
+   61.98,
+   31.9
+  ],
+  "bytes": 2592526,
+  "tails": [],
+  "initials": [],
+  "page": 16,
+  "entry": "alc16",
+  "num": "7",
+  "motto": "Fœdera",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0023.jpg",
+  "id": "alc17",
+  "status": "ok",
+  "page_box": [
+   1.18,
+   2.81,
+   96.82,
+   90.44
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "tail",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "концовка",
+   "Текстовая область для вычитания",
+   "in silentium без рамки и текста с концовкой"
+  ],
+  "pic_box": [
+   17.57,
+   14.05,
+   63.06,
+   39.97
+  ],
+  "bytes": 2831532,
+  "tails": [
+   [
+    25.45,
+    64.67,
+    46.58,
+    12.52
+   ]
+  ],
+  "initials": [],
+  "page": 17,
+  "entry": "alc17",
+  "num": "8",
+  "motto": "In silentium",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0024.jpg",
+  "id": "alc18",
+  "status": "ok",
+  "page_box": [
+   3.08,
+   3.68,
+   96.28,
+   90.36
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "non vulganda consiglia без текста и рамки"
+  ],
+  "pic_box": [
+   19.87,
+   15.15,
+   62.63,
+   41.23
+  ],
+  "bytes": 2405452,
+  "tails": [],
+  "initials": [],
+  "page": 18,
+  "entry": "alc18",
+  "num": "9",
+  "motto": "Non vulganda consilia",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0025.jpg",
+  "id": "alc19",
+  "status": "ok",
+  "page_box": [
+   2.55,
+   2.8,
+   96.32,
+   91.45
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "Nec question quidam cedendum без текста и рамки"
+  ],
+  "pic_box": [
+   18.21,
+   14.3,
+   62.11,
+   44.68
+  ],
+  "bytes": 2268168,
+  "tails": [],
+  "initials": [],
+  "page": 19,
+  "entry": "alc19",
+  "num": "10",
+  "motto": "Nec quæstioni quidem cedendum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0026.jpg",
+  "id": "alc20",
+  "status": "ok",
+  "page_box": [
+   3.79,
+   3.76,
+   94.96,
+   89.21
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "Текстовая область для вычитания",
+   "consilio, & virtute Chimaeram.. без. текста и рамки"
+  ],
+  "pic_box": [
+   20.02,
+   15.21,
+   61.66,
+   48.59
+  ],
+  "bytes": 2566148,
+  "tails": [],
+  "initials": [],
+  "page": 20,
+  "entry": "alc20",
+  "num": "11",
+  "motto": "Consilio, & virtute Chimæram superari",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0027.jpg",
+  "id": "alc21",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.1,
+   95.74,
+   91.77
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "Vigilantis, & custodia без текста и рамки"
+  ],
+  "pic_box": [
+   16.35,
+   14.83,
+   62.57,
+   43.16
+  ],
+  "bytes": 2436290,
+  "tails": [],
+  "initials": [],
+  "page": 21,
+  "entry": "alc21",
+  "num": "12",
+  "motto": "Vigilantia, & custodia",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0028.jpg",
+  "id": "alc22",
+  "status": "ok",
+  "page_box": [
+   3.54,
+   3.02,
+   95.68,
+   91.6
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "Sobrie vivendum... без текста и рамки"
+  ],
+  "pic_box": [
+   20.27,
+   14.89,
+   62.57,
+   45.38
+  ],
+  "bytes": 2456550,
+  "tails": [],
+  "initials": [],
+  "page": 22,
+  "entry": "alc22",
+  "num": "13",
+  "motto": "Sobriè viuendum, & non temerè credendum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0029.jpg",
+  "id": "alc23",
+  "status": "ok",
+  "page_box": [
+   1.75,
+   2.91,
+   96.85,
+   90.77
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "Гравюра без текста и рамки"
+  ],
+  "pic_box": [
+   17.29,
+   14.63,
+   63.29,
+   43.97
+  ],
+  "bytes": 2416394,
+  "tails": [],
+  "initials": [],
+  "page": 23,
+  "entry": "alc23",
+  "num": "14",
+  "motto": "Quid excessi? quid admisi? quid omisi?",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0030.jpg",
+  "id": "alc24",
+  "status": "ok",
+  "page_box": [
+   3.73,
+   3.88,
+   95.03,
+   89.82
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гравюра без текста и рамки"
+  ],
+  "pic_box": [
+   20.3,
+   16,
+   62.5,
+   42.83
+  ],
+  "bytes": 2339566,
+  "tails": [],
+  "initials": [],
+  "page": 24,
+  "entry": "alc24",
+  "num": "15",
+  "motto": "Prudentes. Problema",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0031.jpg",
+  "id": "alc25",
+  "status": "ok",
+  "page_box": [
+   0.73,
+   3.46,
+   96.29,
+   91.03
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гравюра без текста и рамки"
+  ],
+  "pic_box": [
+   17.53,
+   14.64,
+   62.6,
+   45.79
+  ],
+  "bytes": 2534320,
+  "tails": [],
+  "initials": [],
+  "page": 25,
+  "entry": "alc25",
+  "num": "16",
+  "motto": "Prudens, magis quàm loquax",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0032.jpg",
+  "id": "alc26",
+  "status": "ok",
+  "page_box": [
+   1.55,
+   3.23,
+   95.65,
+   89.43
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "Гравюра без текста и рамки"
+  ],
+  "pic_box": [
+   19.15,
+   14.07,
+   61.29,
+   45.25
+  ],
+  "bytes": 2526662,
+  "tails": [],
+  "initials": [],
+  "page": 26,
+  "entry": "alc26",
+  "num": "17",
+  "motto": "Maturandum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0033.jpg",
+  "id": "alc27",
+  "status": "ok",
+  "page_box": [
+   0.86,
+   3.07,
+   95.69,
+   90.52
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гравюра без текста и рамки"
+  ],
+  "pic_box": [
+   17.3,
+   15.68,
+   62.21,
+   42.86
+  ],
+  "bytes": 2524774,
+  "tails": [],
+  "initials": [],
+  "page": 27,
+  "entry": "alc27",
+  "num": "18",
+  "motto": "In deprehensum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0034.jpg",
+  "id": "alc28",
+  "status": "ok",
+  "page_box": [
+   2.4,
+   3.14,
+   96.57,
+   89.87
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гравюра без текста и рамки"
+  ],
+  "pic_box": [
+   20.35,
+   15.18,
+   61.57,
+   41.92
+  ],
+  "bytes": 2407170,
+  "tails": [],
+  "initials": [],
+  "page": 28,
+  "entry": "alc28",
+  "num": "19",
+  "motto": "Custodiendas virgines",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0035.jpg",
+  "id": "alc29",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.04,
+   94.66,
+   90.72
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гравюра без текста и рамки"
+  ],
+  "pic_box": [
+   13.2,
+   15.35,
+   64.62,
+   42.04
+  ],
+  "bytes": 2354400,
+  "tails": [],
+  "initials": [],
+  "page": 29,
+  "entry": "alc29",
+  "num": "20",
+  "motto": "Vino prudentiam augeri",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0036.jpg",
+  "id": "alc30",
+  "status": "ok",
+  "page_box": [
+   6.44,
+   2.55,
+   93.56,
+   89.53
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "tail",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "концовка",
+   "Текстовая область для вычитания",
+   "гравюра без текста и рамки"
+  ],
+  "pic_box": [
+   22.26,
+   14.69,
+   64.23,
+   40.18
+  ],
+  "bytes": 2772834,
+  "tails": [
+   [
+    31.78,
+    63.33,
+    43.76,
+    12.48
+   ]
+  ],
+  "initials": [],
+  "page": 30,
+  "entry": "alc30",
+  "num": "21",
+  "motto": "Prudentes vino abstinent",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0037.jpg",
+  "id": "alc31",
+  "status": "ok",
+  "page_box": [
+   0,
+   2.49,
+   96.96,
+   92.29
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гравюра без текста и рамки"
+  ],
+  "pic_box": [
+   16.96,
+   14.32,
+   62.02,
+   45.05
+  ],
+  "bytes": 2687826,
+  "tails": [],
+  "initials": [],
+  "page": 31,
+  "entry": "alc31",
+  "num": "22",
+  "motto": "In statuam Bacchi. Dialogismus",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0038.jpg",
+  "id": "alc32",
+  "status": "ok",
+  "page_box": [
+   4.44,
+   2.16,
+   94.74,
+   90.91
+  ],
+  "kinds": [
+   "page",
+   "tail",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "концовка",
+   "Текстовая область для вычитания"
+  ],
+  "bytes": 1797172,
+  "tails": [
+   [
+    28.78,
+    62.36,
+    45.38,
+    12.2
+   ]
+  ],
+  "initials": [],
+  "page": 32,
+  "entry": "alc31",
+  "num": "22",
+  "motto": "In statuam Bacchi. Dialogismus",
+  "first_page_of_entry": false
+ },
+ {
+  "frame": "frame_0039.jpg",
+  "id": "alc33",
+  "status": "ok",
+  "page_box": [
+   2.11,
+   3.35,
+   96.92,
+   90.66
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гравюра без текста и рамки"
+  ],
+  "pic_box": [
+   18.54,
+   14.73,
+   62.18,
+   42.15
+  ],
+  "bytes": 2406920,
+  "tails": [],
+  "initials": [],
+  "page": 33,
+  "entry": "alc33",
+  "num": "23",
+  "motto": "Gramen",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0040.jpg",
+  "id": "alc34",
+  "status": "ok",
+  "page_box": [
+   0.44,
+   2.97,
+   96.35,
+   89.46
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гравюра без текста и рамки"
+  ],
+  "pic_box": [
+   18.44,
+   14.2,
+   62.35,
+   47.03
+  ],
+  "bytes": 2595540,
+  "tails": [],
+  "initials": [],
+  "page": 34,
+  "entry": "alc34",
+  "num": "24",
+  "motto": "Nec verbo, nec facto quenquam lædendum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0041.jpg",
+  "id": "alc35",
+  "status": "ok",
+  "page_box": [
+   3.81,
+   3.08,
+   96.19,
+   91.16
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "",
+   "гравюра без рамки и текста"
+  ],
+  "pic_box": [
+   20.46,
+   15.07,
+   62.17,
+   43.22
+  ],
+  "bytes": 2050780,
+  "tails": [],
+  "initials": [],
+  "page": 35,
+  "entry": "alc35",
+  "num": "25",
+  "motto": "Tandem, tandem Iustitia obtinet",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0042.jpg",
+  "id": "alc36",
+  "status": "ok",
+  "page_box": [
+   2.92,
+   0,
+   97.08,
+   90.93
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гравюра без текста и рамки"
+  ],
+  "pic_box": [
+   18.84,
+   15.18,
+   61.65,
+   42.78
+  ],
+  "bytes": 2203282,
+  "tails": [],
+  "initials": [],
+  "page": 36,
+  "entry": "alc36",
+  "num": "26",
+  "motto": "Etiam ferocissimos domari",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0043.jpg",
+  "id": "alc37",
+  "status": "ok",
+  "page_box": [
+   1.4,
+   4.01,
+   97.02,
+   91.25
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гравюра без текста и рамки"
+  ],
+  "pic_box": [
+   18.39,
+   15.72,
+   62.6,
+   44.68
+  ],
+  "bytes": 2487960,
+  "tails": [],
+  "initials": [],
+  "page": 37,
+  "entry": "alc37",
+  "num": "27",
+  "motto": "Gratiam referendam",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0044.jpg",
+  "id": "alc38",
+  "status": "ok",
+  "page_box": [
+   2.54,
+   4.06,
+   95.38,
+   89.87
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гравюра без текста и рамки"
+  ],
+  "pic_box": [
+   19.5,
+   15.69,
+   62.85,
+   45.56
+  ],
+  "bytes": 2248798,
+  "tails": [],
+  "initials": [],
+  "page": 38,
+  "entry": "alc38",
+  "num": "28",
+  "motto": "Abstinentia",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0045.jpg",
+  "id": "alc39",
+  "status": "ok",
+  "page_box": [
+   2.6,
+   3.15,
+   96.46,
+   91.3
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гравюра без текста и рамки"
+  ],
+  "pic_box": [
+   19.6,
+   14.59,
+   62.19,
+   42.84
+  ],
+  "bytes": 2410626,
+  "tails": [],
+  "initials": [],
+  "page": 39,
+  "entry": "alc39",
+  "num": "29",
+  "motto": "Bonis à diuitibus, nihil timendum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0046.jpg",
+  "id": "alc40",
+  "status": "ok",
+  "page_box": [
+   2.91,
+   2.68,
+   96.38,
+   90.68
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гравюа без текста и рамки"
+  ],
+  "pic_box": [
+   20.94,
+   14.35,
+   60.32,
+   45.89
+  ],
+  "bytes": 2430050,
+  "tails": [],
+  "initials": [],
+  "page": 40,
+  "entry": "alc40",
+  "num": "30",
+  "motto": "Signa fortium. Dialogismus",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0047.jpg",
+  "id": "alc41",
+  "status": "ok",
+  "page_box": [
+   1.87,
+   3.15,
+   96.63,
+   90.55
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гравюра без текста и рамки"
+  ],
+  "pic_box": [
+   18.52,
+   14.92,
+   61.78,
+   42.43
+  ],
+  "bytes": 2495192,
+  "tails": [],
+  "initials": [],
+  "page": 41,
+  "entry": "alc41",
+  "num": "31",
+  "motto": "Anechou kai apechou",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0048.jpg",
+  "id": "alc42",
+  "status": "ok",
+  "page_box": [
+   2.44,
+   2.85,
+   96.51,
+   90.75
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гравюра без текста и рамки"
+  ],
+  "pic_box": [
+   20.38,
+   14.36,
+   61.5,
+   40.84
+  ],
+  "bytes": 2546646,
+  "tails": [],
+  "initials": [],
+  "page": 42,
+  "entry": "alc42",
+  "num": "32",
+  "motto": "In adulari nescientem",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0049.jpg",
+  "id": "alc43",
+  "status": "ok",
+  "page_box": [
+   0.79,
+   3.15,
+   95.14,
+   91.55
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гравюра без текста и рамки"
+  ],
+  "pic_box": [
+   16.85,
+   15.53,
+   62.24,
+   44.48
+  ],
+  "bytes": 2489678,
+  "tails": [],
+  "initials": [],
+  "page": 43,
+  "entry": "alc43",
+  "num": "33",
+  "motto": "Obdurandum aduersus vrgentia",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0050.jpg",
+  "id": "alc44",
+  "status": "ok",
+  "page_box": [
+   3.78,
+   2.91,
+   95.56,
+   90.67
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гб"
+  ],
+  "pic_box": [
+   21.49,
+   14.99,
+   61.55,
+   41.15
+  ],
+  "bytes": 2593456,
+  "tails": [],
+  "initials": [],
+  "page": 44,
+  "entry": "alc44",
+  "num": "34",
+  "motto": "Omnia mea mecum porto",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0051.jpg",
+  "id": "alc45",
+  "status": "ok",
+  "page_box": [
+   0,
+   2.78,
+   93.18,
+   92.81
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гравюра без текста и рамки"
+  ],
+  "pic_box": [
+   13.74,
+   14.75,
+   62,
+   45.95
+  ],
+  "bytes": 2502946,
+  "tails": [],
+  "initials": [],
+  "page": 45,
+  "entry": "alc45",
+  "num": "35",
+  "motto": "Concordiæ symbolum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0052.jpg",
+  "id": "alc46",
+  "status": "ok",
+  "page_box": [
+   7.27,
+   2.62,
+   92.73,
+   91.12
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   25.04,
+   14.42,
+   60.36,
+   42.85
+  ],
+  "bytes": 2534358,
+  "tails": [],
+  "initials": [],
+  "page": 46,
+  "entry": "alc46",
+  "num": "36",
+  "motto": "Concordia",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0053.jpg",
+  "id": "alc47",
+  "status": "ok",
+  "page_box": [
+   0,
+   2.03,
+   95.56,
+   92.87
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   15.02,
+   14.77,
+   62.23,
+   47.08
+  ],
+  "bytes": 2564342,
+  "tails": [],
+  "initials": [],
+  "page": 47,
+  "entry": "alc47",
+  "num": "37",
+  "motto": "Concordia insuperabilis",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0054.jpg",
+  "id": "alc48",
+  "status": "ok",
+  "page_box": [
+   4.99,
+   2.14,
+   95.01,
+   92.09
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   23.35,
+   15.51,
+   61.4,
+   42.9
+  ],
+  "bytes": 2635476,
+  "tails": [],
+  "initials": [],
+  "page": 48,
+  "entry": "alc48",
+  "num": "38",
+  "motto": "Vnum nihil, duos plurimùm posse",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0055.jpg",
+  "id": "alc49",
+  "status": "ok",
+  "page_box": [
+   0.59,
+   3.27,
+   96.64,
+   91.35
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   17.61,
+   16.23,
+   62.39,
+   44.56
+  ],
+  "bytes": 2607876,
+  "tails": [],
+  "initials": [],
+  "page": 49,
+  "entry": "alc49",
+  "num": "39",
+  "motto": "Firmissima conuelli non posse",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0056.jpg",
+  "id": "alc50",
+  "status": "ok",
+  "page_box": [
+   4.67,
+   3.19,
+   95.33,
+   90.91
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   21.7,
+   15.96,
+   61.73,
+   44.7
+  ],
+  "bytes": 2453914,
+  "tails": [],
+  "initials": [],
+  "page": 50,
+  "entry": "alc50",
+  "num": "40",
+  "motto": "Spes proxima",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0057.jpg",
+  "id": "alc51",
+  "status": "ok",
+  "page_box": [
+   1.6,
+   3.52,
+   97.71,
+   91.17
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18.32,
+   16.11,
+   63.74,
+   45.47
+  ],
+  "bytes": 2615720,
+  "tails": [],
+  "initials": [],
+  "page": 51,
+  "entry": "alc51",
+  "num": "41",
+  "motto": "In simulachrum Spei. Dialogismus",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0058.jpg",
+  "id": "alc52",
+  "status": "ok",
+  "page_box": [
+   1.45,
+   2.89,
+   97.05,
+   90.52
+  ],
+  "kinds": [
+   "page",
+   "tail",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "концовка",
+   "Текстовая область для вычитания"
+  ],
+  "bytes": 1530106,
+  "tails": [
+   [
+    24.24,
+    47.3,
+    50.15,
+    15.8
+   ]
+  ],
+  "initials": [],
+  "page": 52,
+  "entry": "alc51",
+  "num": "41",
+  "motto": "In simulachrum Spei. Dialogismus",
+  "first_page_of_entry": false
+ },
+ {
+  "frame": "frame_0059.jpg",
+  "id": "alc53",
+  "status": "ok",
+  "page_box": [
+   1.44,
+   3.62,
+   95.97,
+   90.43
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   17.6,
+   14.87,
+   62.83,
+   44.23
+  ],
+  "bytes": 2537798,
+  "tails": [],
+  "initials": [],
+  "page": 53,
+  "entry": "alc53",
+  "num": "42",
+  "motto": "In dies meliora",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0060.jpg",
+  "id": "alc54",
+  "status": "ok",
+  "page_box": [
+   3.44,
+   2.65,
+   95.26,
+   90.19
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "tail",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "концовка",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18.81,
+   14.81,
+   63.48,
+   41.46
+  ],
+  "bytes": 2644192,
+  "tails": [
+   [
+    26.85,
+    62.83,
+    47.24,
+    12.37
+   ]
+  ],
+  "initials": [],
+  "page": 54,
+  "entry": "alc54",
+  "num": "43",
+  "motto": "Illicitum non sperandum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0061.jpg",
+  "id": "alc55",
+  "status": "ok",
+  "page_box": [
+   1.5,
+   3.24,
+   97.69,
+   90.59
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18.63,
+   15.77,
+   62.26,
+   42.83
+  ],
+  "bytes": 2448456,
+  "tails": [],
+  "initials": [],
+  "page": 55,
+  "entry": "alc55",
+  "num": "44",
+  "motto": "Pudicitia",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0062.jpg",
+  "id": "alc56",
+  "status": "ok",
+  "page_box": [
+   1.21,
+   3.35,
+   96.1,
+   90.57
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18.38,
+   15.07,
+   62.13,
+   48.52
+  ],
+  "bytes": 2619334,
+  "tails": [],
+  "initials": [],
+  "page": 56,
+  "entry": "alc56",
+  "num": "45",
+  "motto": "In victoriam dolo partam",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0063.jpg",
+  "id": "alc57",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.55,
+   96.08,
+   90.63
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   14.33,
+   15.51,
+   63.37,
+   40.93
+  ],
+  "bytes": 2438760,
+  "tails": [],
+  "initials": [],
+  "page": 57,
+  "entry": "alc57",
+  "num": "46",
+  "motto": "In fraudulentos",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0064.jpg",
+  "id": "alc58",
+  "status": "ok",
+  "page_box": [
+   5.59,
+   3.64,
+   94.41,
+   89.04
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   23.4,
+   15.12,
+   61.51,
+   39.98
+  ],
+  "bytes": 2546986,
+  "tails": [],
+  "initials": [],
+  "page": 58,
+  "entry": "alc58",
+  "num": "47",
+  "motto": "Dolus in suos",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0065.jpg",
+  "id": "alc59",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.31,
+   96.11,
+   91.66
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "tail",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "концовка",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16,
+   14.23,
+   62.28,
+   40.45
+  ],
+  "bytes": 2517730,
+  "tails": [
+   [
+    21.36,
+    61.54,
+    50.36,
+    15.08
+   ]
+  ],
+  "initials": [],
+  "page": 59,
+  "entry": "alc59",
+  "num": "48",
+  "motto": "Maledicentia",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0066.jpg",
+  "id": "alc60",
+  "status": "ok",
+  "page_box": [
+   4.69,
+   3.43,
+   95.31,
+   90.77
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   24.05,
+   14.78,
+   61.4,
+   42.99
+  ],
+  "bytes": 2589232,
+  "tails": [],
+  "initials": [],
+  "page": 60,
+  "entry": "alc60",
+  "num": "49",
+  "motto": "In receptatores sicariorum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0067.jpg",
+  "id": "alc61",
+  "status": "ok",
+  "page_box": [
+   0,
+   2.35,
+   95.38,
+   92.15
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   14.92,
+   14.7,
+   62.97,
+   41
+  ],
+  "bytes": 2467658,
+  "tails": [],
+  "initials": [],
+  "page": 61,
+  "entry": "alc61",
+  "num": "50",
+  "motto": "In adulatores",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0068.jpg",
+  "id": "alc62",
+  "status": "ok",
+  "page_box": [
+   5.22,
+   2.61,
+   94.78,
+   90.94
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   22.47,
+   15.54,
+   62.96,
+   47.22
+  ],
+  "bytes": 2490450,
+  "tails": [],
+  "initials": [],
+  "page": 62,
+  "entry": "alc62",
+  "num": "51",
+  "motto": "Ei qui semel sua prodegerit, aliena credi non oportere",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0069.jpg",
+  "id": "alc63",
+  "status": "ok",
+  "page_box": [
+   0,
+   2.52,
+   95.08,
+   92.29
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   14.77,
+   15.5,
+   63.44,
+   45.52
+  ],
+  "bytes": 2455210,
+  "tails": [],
+  "initials": [],
+  "page": 63,
+  "entry": "alc63",
+  "num": "52",
+  "motto": "Temeritas",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0070.jpg",
+  "id": "alc64",
+  "status": "ok",
+  "page_box": [
+   5.52,
+   2.83,
+   94.48,
+   90.85
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   23.39,
+   14.73,
+   61.29,
+   43.87
+  ],
+  "bytes": 2483216,
+  "tails": [],
+  "initials": [],
+  "page": 64,
+  "entry": "alc64",
+  "num": "53",
+  "motto": "Furor, & rabies",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0071.jpg",
+  "id": "alc65",
+  "status": "ok",
+  "page_box": [
+   0.07,
+   2.57,
+   97.24,
+   90.84
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16.74,
+   13.96,
+   63.39,
+   40.39
+  ],
+  "bytes": 2790772,
+  "tails": [],
+  "initials": [],
+  "page": 65,
+  "entry": "alc65",
+  "num": "54",
+  "motto": "In temerarios",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0072.jpg",
+  "id": "alc66",
+  "status": "ok",
+  "page_box": [
+   2.38,
+   2.49,
+   95.44,
+   91.61
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.79,
+   14.1,
+   62.78,
+   44.86
+  ],
+  "bytes": 2548182,
+  "tails": [],
+  "initials": [],
+  "page": 66,
+  "entry": "alc66",
+  "num": "55",
+  "motto": "In eos qui supra vires quicquam audent",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0073.jpg",
+  "id": "alc67",
+  "status": "ok",
+  "page_box": [
+   0,
+   2.99,
+   96.17,
+   90.89
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   15.09,
+   15.41,
+   63.21,
+   44.64
+  ],
+  "bytes": 2585004,
+  "tails": [],
+  "initials": [],
+  "page": 67,
+  "entry": "alc67",
+  "num": "56",
+  "motto": "Impossibile",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0074.jpg",
+  "id": "alc68",
+  "status": "ok",
+  "page_box": [
+   2.74,
+   3.93,
+   97.26,
+   90.5
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   20.91,
+   16.57,
+   63.32,
+   41.86
+  ],
+  "bytes": 2498748,
+  "tails": [],
+  "initials": [],
+  "page": 68,
+  "entry": "alc68",
+  "num": "57",
+  "motto": "Cuculi",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0075.jpg",
+  "id": "alc69",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.17,
+   95.02,
+   91.56
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   13.47,
+   15.81,
+   63.09,
+   42.6
+  ],
+  "bytes": 2459400,
+  "tails": [],
+  "initials": [],
+  "page": 69,
+  "entry": "alc69",
+  "num": "58",
+  "motto": "Vespertilio",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0076.jpg",
+  "id": "alc70",
+  "status": "ok",
+  "page_box": [
+   6.45,
+   3.58,
+   93.55,
+   89.65
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   23.78,
+   15.37,
+   62.03,
+   39.71
+  ],
+  "bytes": 2651552,
+  "tails": [],
+  "initials": [],
+  "page": 70,
+  "entry": "alc70",
+  "num": "59",
+  "motto": "Aliud",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0077.jpg",
+  "id": "alc71",
+  "status": "ok",
+  "page_box": [
+   0.8,
+   3.44,
+   97.77,
+   90.74
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18,
+   17.08,
+   62.45,
+   43.31
+  ],
+  "bytes": 2354244,
+  "tails": [],
+  "initials": [],
+  "page": 71,
+  "entry": "alc71",
+  "num": "60",
+  "motto": "Ira",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0078.jpg",
+  "id": "alc72",
+  "status": "ok",
+  "page_box": [
+   3.13,
+   3.34,
+   95.47,
+   90.16
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.22,
+   14.93,
+   62.82,
+   45.79
+  ],
+  "bytes": 2466386,
+  "tails": [],
+  "initials": [],
+  "page": 72,
+  "entry": "alc72",
+  "num": "61",
+  "motto": "In eum qui sibi ipsi damnum apparat",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0079.jpg",
+  "id": "alc73",
+  "status": "ok",
+  "page_box": [
+   1.57,
+   2.88,
+   96.25,
+   90.79
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   17.94,
+   15.26,
+   62.66,
+   42.59
+  ],
+  "bytes": 2443786,
+  "tails": [],
+  "initials": [],
+  "page": 73,
+  "entry": "alc73",
+  "num": "62",
+  "motto": "Fatuitas",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0080.jpg",
+  "id": "alc74",
+  "status": "ok",
+  "page_box": [
+   3.7,
+   2.85,
+   96.3,
+   90.75
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   21.47,
+   15.28,
+   61.1,
+   40.97
+  ],
+  "bytes": 2435954,
+  "tails": [],
+  "initials": [],
+  "page": 74,
+  "entry": "alc74",
+  "num": "63",
+  "motto": "Obliuio paupertatis parens",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0081.jpg",
+  "id": "alc75",
+  "status": "ok",
+  "page_box": [
+   2,
+   2.3,
+   98,
+   91.35
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.72,
+   13.85,
+   62.46,
+   46.69
+  ],
+  "bytes": 2644668,
+  "tails": [],
+  "initials": [],
+  "page": 75,
+  "entry": "alc75",
+  "num": "64",
+  "motto": "Superbia",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0082.jpg",
+  "id": "alc76",
+  "status": "ok",
+  "page_box": [
+   0.25,
+   3.47,
+   97.9,
+   90.35
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   17.72,
+   15.81,
+   62.76,
+   42.51
+  ],
+  "bytes": 2440012,
+  "tails": [],
+  "initials": [],
+  "page": 76,
+  "entry": "alc76",
+  "num": "65",
+  "motto": "Impudentia",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0083.jpg",
+  "id": "alc77",
+  "status": "ok",
+  "page_box": [
+   0,
+   4.17,
+   96.78,
+   91.19
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   17.51,
+   15.95,
+   61.39,
+   40.93
+  ],
+  "bytes": 2494310,
+  "tails": [],
+  "initials": [],
+  "page": 77,
+  "entry": "alc77",
+  "num": "66",
+  "motto": "Φιλαυτία",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0084.jpg",
+  "id": "alc78",
+  "status": "ok",
+  "page_box": [
+   3.29,
+   2.97,
+   96.71,
+   89.86
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   20.79,
+   16.37,
+   61.87,
+   40.55
+  ],
+  "bytes": 2518020,
+  "tails": [],
+  "initials": [],
+  "page": 78,
+  "entry": "alc78",
+  "num": "67",
+  "motto": "Garrulitas",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0085.jpg",
+  "id": "alc79",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.42,
+   94.51,
+   90.93
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   13.62,
+   15.57,
+   63.33,
+   42.27
+  ],
+  "bytes": 2378574,
+  "tails": [],
+  "initials": [],
+  "page": 79,
+  "entry": "alc79",
+  "num": "68",
+  "motto": "Inuidia",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0086.jpg",
+  "id": "alc80",
+  "status": "ok",
+  "page_box": [
+   3.59,
+   3.02,
+   95.94,
+   89.45
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   20.24,
+   15.05,
+   63.53,
+   43.28
+  ],
+  "bytes": 2571742,
+  "tails": [],
+  "initials": [],
+  "page": 80,
+  "entry": "alc80",
+  "num": "69",
+  "motto": "Luxuria",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0087.jpg",
+  "id": "alc81",
+  "status": "ok",
+  "page_box": [
+   0,
+   2.89,
+   95.95,
+   91.73
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16.54,
+   15.32,
+   61.5,
+   42.34
+  ],
+  "bytes": 2387856,
+  "tails": [],
+  "initials": [],
+  "page": 81,
+  "entry": "alc81",
+  "num": "70",
+  "motto": "Luxuriosorum opes",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0088.jpg",
+  "id": "alc82",
+  "status": "ok",
+  "page_box": [
+   3.16,
+   2.39,
+   96.84,
+   90.65
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гтбир"
+  ],
+  "pic_box": [
+   21.78,
+   13.83,
+   61.18,
+   41.43
+  ],
+  "bytes": 2333724,
+  "tails": [],
+  "initials": [],
+  "page": 82,
+  "entry": "alc82",
+  "num": "71",
+  "motto": "Tumulus meretricis",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0089.jpg",
+  "id": "alc83",
+  "status": "ok",
+  "page_box": [
+   0.2,
+   3.79,
+   98.79,
+   91.74
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.22,
+   16.05,
+   61.26,
+   41.52
+  ],
+  "bytes": 2036150,
+  "tails": [],
+  "initials": [],
+  "page": 83,
+  "entry": "alc83",
+  "num": "72",
+  "motto": "In amatores meretricum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0090.jpg",
+  "id": "alc84",
+  "status": "ok",
+  "page_box": [
+   2.13,
+   2.81,
+   96.67,
+   91.68
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.9,
+   14.2,
+   61.71,
+   40.78
+  ],
+  "bytes": 2106658,
+  "tails": [],
+  "initials": [],
+  "page": 84,
+  "entry": "alc84",
+  "num": "73",
+  "motto": "Cauendum à meretricibus",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0091.jpg",
+  "id": "alc85",
+  "status": "ok",
+  "page_box": [
+   1.5,
+   3.93,
+   98.06,
+   91.21
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 2,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир",
+   "зона вычитания для извлечения лишнего из рамки"
+  ],
+  "pic_box": [
+   19.18,
+   17.86,
+   62.25,
+   43.54
+  ],
+  "bytes": 1854798,
+  "tails": [],
+  "initials": [],
+  "page": 85,
+  "entry": "alc85",
+  "num": "74",
+  "motto": "Amuletum Veneris",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0092.jpg",
+  "id": "alc86",
+  "status": "ok",
+  "page_box": [
+   0,
+   4.02,
+   96.77,
+   89.92
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16.7,
+   15.33,
+   62.36,
+   40.48
+  ],
+  "bytes": 2747806,
+  "tails": [],
+  "initials": [],
+  "page": 86,
+  "entry": "alc86",
+  "num": "75",
+  "motto": "Inuiolabiles telo Cupidinis",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0093.jpg",
+  "id": "alc87",
+  "status": "ok",
+  "page_box": [
+   0.26,
+   3.3,
+   97.41,
+   91.45
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   15.78,
+   14.79,
+   63.66,
+   43.62
+  ],
+  "bytes": 2571806,
+  "tails": [],
+  "initials": [],
+  "page": 87,
+  "entry": "alc87",
+  "num": "76",
+  "motto": "Lasciuia. Problema",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0094.jpg",
+  "id": "alc88",
+  "status": "ok",
+  "page_box": [
+   1.25,
+   2.8,
+   96.3,
+   90.43
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   17.88,
+   15.14,
+   62.9,
+   46.25
+  ],
+  "bytes": 2601668,
+  "tails": [],
+  "initials": [],
+  "page": 88,
+  "entry": "alc88",
+  "num": "77",
+  "motto": "Desidia",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0095.jpg",
+  "id": "alc89",
+  "status": "ok",
+  "page_box": [
+   0.42,
+   2.12,
+   96.71,
+   92.4
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   17.56,
+   15.48,
+   62.24,
+   43.33
+  ],
+  "bytes": 2642576,
+  "tails": [],
+  "initials": [],
+  "page": 89,
+  "entry": "alc89",
+  "num": "78",
+  "motto": "Desidiam abijciendam",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0096.jpg",
+  "id": "alc90",
+  "status": "ok",
+  "page_box": [
+   1.34,
+   2.69,
+   95.7,
+   92.24
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "гбтир",
+   "Текстовая область для вычитания"
+  ],
+  "pic_box": [
+   18.52,
+   15.2,
+   62.08,
+   43.91
+  ],
+  "bytes": 2540426,
+  "tails": [],
+  "initials": [],
+  "page": 90,
+  "entry": "alc90",
+  "num": "79",
+  "motto": "In facilè à virtute desciscentes",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0097.jpg",
+  "id": "alc91",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.42,
+   94.46,
+   92.14
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   12.96,
+   15.77,
+   63.27,
+   41.98
+  ],
+  "bytes": 2209896,
+  "tails": [],
+  "initials": [],
+  "page": 91,
+  "entry": "alc91",
+  "num": "80",
+  "motto": "Ignaui",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0098.jpg",
+  "id": "alc92",
+  "status": "ok",
+  "page_box": [
+   4.74,
+   3.79,
+   93.4,
+   90.28
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   21.26,
+   15.59,
+   62.6,
+   48.85
+  ],
+  "bytes": 2219462,
+  "tails": [],
+  "initials": [],
+  "page": 92,
+  "entry": "alc92",
+  "num": "81",
+  "motto": "Auaritia",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0099.jpg",
+  "id": "alc93",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.21,
+   93.79,
+   91.7
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   13.12,
+   15.09,
+   61.72,
+   40.93
+  ],
+  "bytes": 2456524,
+  "tails": [],
+  "initials": [],
+  "page": 93,
+  "entry": "alc93",
+  "num": "82",
+  "motto": "In auaros",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0100.jpg",
+  "id": "alc94",
+  "status": "ok",
+  "page_box": [
+   5.83,
+   2.95,
+   93.11,
+   91.6
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "tail",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "концовка",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   23.1,
+   14.33,
+   61.6,
+   41.49
+  ],
+  "bytes": 2521862,
+  "tails": [
+   [
+    30.14,
+    63.42,
+    45.95,
+    12.36
+   ]
+  ],
+  "initials": [],
+  "page": 94,
+  "entry": "alc94",
+  "num": "83",
+  "motto": "In aulicos",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0101.jpg",
+  "id": "alc95",
+  "status": "ok",
+  "page_box": [
+   0,
+   2.91,
+   95.47,
+   91.28
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   14.9,
+   15.81,
+   63.39,
+   43.99
+  ],
+  "bytes": 2220588,
+  "tails": [],
+  "initials": [],
+  "page": 95,
+  "entry": "alc95",
+  "num": "84",
+  "motto": "In sordidos",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0102.jpg",
+  "id": "alc96",
+  "status": "ok",
+  "page_box": [
+   3.55,
+   2.99,
+   94.62,
+   89.91
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   20.78,
+   14.27,
+   62.62,
+   41.62
+  ],
+  "bytes": 2231078,
+  "tails": [],
+  "initials": [],
+  "page": 96,
+  "entry": "alc96",
+  "num": "85",
+  "motto": "In diuites publico malo",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0103.jpg",
+  "id": "alc97",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.8,
+   94.66,
+   90.36
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   12.97,
+   16.39,
+   64.57,
+   47.25
+  ],
+  "bytes": 2604066,
+  "tails": [],
+  "initials": [],
+  "page": 97,
+  "entry": "alc97",
+  "num": "86",
+  "motto": "In auaros, vel quibus melior conditio ab extraneis offertur",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0104.jpg",
+  "id": "alc98",
+  "status": "ok",
+  "page_box": [
+   1.07,
+   3.27,
+   96.68,
+   89.86
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16.61,
+   15.89,
+   64.85,
+   41.25
+  ],
+  "bytes": 2255778,
+  "tails": [],
+  "initials": [],
+  "page": 98,
+  "entry": "alc98",
+  "num": "87",
+  "motto": "Gula",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0105.jpg",
+  "id": "alc99",
+  "status": "ok",
+  "page_box": [
+   0,
+   4.28,
+   94.13,
+   91.73
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   14.54,
+   15.68,
+   61.63,
+   47.23
+  ],
+  "bytes": 2685340,
+  "tails": [],
+  "initials": [],
+  "page": 99,
+  "entry": "alc99",
+  "num": "88",
+  "motto": "Ocni effigies. De his qui meretricibus donant, quod in bonos vsus verti debeat.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0106.jpg",
+  "id": "alc100",
+  "status": "ok",
+  "page_box": [
+   0.86,
+   3.08,
+   96.26,
+   91.37
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18.96,
+   15.06,
+   61.02,
+   39.69
+  ],
+  "bytes": 2833580,
+  "tails": [],
+  "initials": [],
+  "page": 100,
+  "entry": "alc100",
+  "num": "89",
+  "motto": "In parasitos",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0107.jpg",
+  "id": "alc101",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.51,
+   98.18,
+   91.14
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16.79,
+   15.29,
+   63.25,
+   46.98
+  ],
+  "bytes": 2451968,
+  "tails": [],
+  "initials": [],
+  "page": 101,
+  "entry": "alc101",
+  "num": "90",
+  "motto": "Paruam culinam, duobus ganeonibus non sufficere.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0108.jpg",
+  "id": "alc102",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.04,
+   96.9,
+   89.2
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16.42,
+   14.22,
+   62.45,
+   41.95
+  ],
+  "bytes": 2421202,
+  "tails": [],
+  "initials": [],
+  "page": 102,
+  "entry": "alc102",
+  "num": "91",
+  "motto": "Captiuus ob gulam",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0109.jpg",
+  "id": "alc103",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.69,
+   96.64,
+   91.62
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   15.76,
+   15.96,
+   63.81,
+   43.42
+  ],
+  "bytes": 2129776,
+  "tails": [],
+  "initials": [],
+  "page": 103,
+  "entry": "alc103",
+  "num": "92",
+  "motto": "In garrulum & gulosum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0110.jpg",
+  "id": "alc104",
+  "status": "ok",
+  "page_box": [
+   1.51,
+   3.52,
+   96.72,
+   90.59
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.16,
+   15.31,
+   63.06,
+   41.61
+  ],
+  "bytes": 2507894,
+  "tails": [],
+  "initials": [],
+  "page": 104,
+  "entry": "alc104",
+  "num": "93",
+  "motto": "Doctorum agnomina",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0111.jpg",
+  "id": "alc105",
+  "status": "ok",
+  "page_box": [
+   1.23,
+   4.32,
+   97.3,
+   90.83
+  ],
+  "kinds": [
+   "page",
+   "tail",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "концовка",
+   "Текстовая область для вычитания"
+  ],
+  "bytes": 1581918,
+  "tails": [
+   [
+    25.84,
+    65.18,
+    47.29,
+    13.37
+   ]
+  ],
+  "initials": [],
+  "page": 105,
+  "entry": "alc104",
+  "num": "93",
+  "motto": "Doctorum agnomina",
+  "first_page_of_entry": false
+ },
+ {
+  "frame": "frame_0112.jpg",
+  "id": "alc106",
+  "status": "ok",
+  "page_box": [
+   0.42,
+   3.89,
+   95.92,
+   89.45
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   17.41,
+   14.76,
+   62.6,
+   38.52
+  ],
+  "bytes": 2497192,
+  "tails": [],
+  "initials": [],
+  "page": 106,
+  "entry": "alc106",
+  "num": "94",
+  "motto": "Natura. Vis naturæ.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0113.jpg",
+  "id": "alc107",
+  "status": "ok",
+  "page_box": [
+   0.57,
+   3.74,
+   95.93,
+   92.06
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   17.08,
+   15.62,
+   61.21,
+   41.71
+  ],
+  "bytes": 2465260,
+  "tails": [],
+  "initials": [],
+  "page": 107,
+  "entry": "alc107",
+  "num": "95",
+  "motto": "Ars Naturam adiuuans",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0114.jpg",
+  "id": "alc108",
+  "status": "ok",
+  "page_box": [
+   2.37,
+   2.98,
+   95.41,
+   90.76
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.92,
+   14.17,
+   60.33,
+   41.37
+  ],
+  "bytes": 2410880,
+  "tails": [],
+  "initials": [],
+  "page": 108,
+  "entry": "alc108",
+  "num": "96",
+  "motto": "In iuuentam",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0115.jpg",
+  "id": "alc109",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.33,
+   96.59,
+   91.93
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   17.09,
+   14.6,
+   62.6,
+   43.91
+  ],
+  "bytes": 2338080,
+  "tails": [],
+  "initials": [],
+  "page": 109,
+  "entry": "alc109",
+  "num": "97",
+  "motto": "In quatuor tempora anni",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0116.jpg",
+  "id": "alc110",
+  "status": "ok",
+  "page_box": [
+   3.56,
+   3,
+   96.44,
+   91.14
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   20.92,
+   14.82,
+   60.49,
+   46.84
+  ],
+  "bytes": 2271122,
+  "tails": [],
+  "initials": [],
+  "page": 110,
+  "entry": "alc110",
+  "num": "98",
+  "motto": "Astrologia. Scyphus Nestoris.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0117.jpg",
+  "id": "alc111",
+  "status": "ok",
+  "page_box": [
+   0,
+   2.64,
+   96.39,
+   91.71
+  ],
+  "kinds": [
+   "page",
+   "tail",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "концовка",
+   "Текстовая область для вычитания"
+  ],
+  "bytes": 1731206,
+  "tails": [
+   [
+    23,
+    46.89,
+    46.45,
+    13.87
+   ]
+  ],
+  "initials": [],
+  "page": 111,
+  "entry": "alc110",
+  "num": "98",
+  "motto": "Astrologia. Scyphus Nestoris.",
+  "first_page_of_entry": false
+ },
+ {
+  "frame": "frame_0118.jpg",
+  "id": "alc112",
+  "status": "ok",
+  "page_box": [
+   4.25,
+   3.25,
+   93.81,
+   90.74
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   20.11,
+   15.08,
+   61.96,
+   42.33
+  ],
+  "bytes": 2713742,
+  "tails": [],
+  "initials": [],
+  "page": 112,
+  "entry": "alc112",
+  "num": "99",
+  "motto": "Quæ supra nos, nihil ad nos",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0119.jpg",
+  "id": "alc113",
+  "status": "ok",
+  "page_box": [
+   0,
+   4.06,
+   95.15,
+   91.72
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16.19,
+   15.28,
+   61.3,
+   43.24
+  ],
+  "bytes": 2434518,
+  "tails": [],
+  "initials": [],
+  "page": 113,
+  "entry": "alc113",
+  "num": "100",
+  "motto": "In Astrologos",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0120.jpg",
+  "id": "alc114",
+  "status": "ok",
+  "page_box": [
+   3.85,
+   4.26,
+   96.15,
+   90.78
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   22.46,
+   15.84,
+   61.09,
+   44.59
+  ],
+  "bytes": 2533550,
+  "tails": [],
+  "initials": [],
+  "page": 114,
+  "entry": "alc114",
+  "num": "101",
+  "motto": "Qui alta contemplantur cadere",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0121.jpg",
+  "id": "alc115",
+  "status": "ok",
+  "page_box": [
+   0,
+   2.69,
+   96.02,
+   92.4
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16.68,
+   15.57,
+   62.2,
+   44.27
+  ],
+  "bytes": 2763442,
+  "tails": [],
+  "initials": [],
+  "page": 115,
+  "entry": "alc115",
+  "num": "102",
+  "motto": "Amor. Potentissimus affectus amor.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0122.jpg",
+  "id": "alc116",
+  "status": "ok",
+  "page_box": [
+   3.6,
+   3.3,
+   95.18,
+   91.68
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   21.27,
+   16.63,
+   60.87,
+   41.84
+  ],
+  "bytes": 2712730,
+  "tails": [],
+  "initials": [],
+  "page": 116,
+  "entry": "alc116",
+  "num": "103",
+  "motto": "Potentia amoris",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0123.jpg",
+  "id": "alc117",
+  "status": "ok",
+  "page_box": [
+   0.26,
+   5.45,
+   94.6,
+   91.5
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "tail",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "концовка",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   15.34,
+   17.96,
+   62.07,
+   40.44
+  ],
+  "bytes": 2727268,
+  "tails": [
+   [
+    18.79,
+    64.97,
+    51.9,
+    14.89
+   ]
+  ],
+  "initials": [],
+  "page": 117,
+  "entry": "alc117",
+  "num": "104",
+  "motto": "Vis amoris",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0124.jpg",
+  "id": "alc118",
+  "status": "ok",
+  "page_box": [
+   4.51,
+   4.82,
+   95.49,
+   90.68
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   22.56,
+   17.76,
+   61.6,
+   42.94
+  ],
+  "bytes": 2623534,
+  "tails": [],
+  "initials": [],
+  "page": 118,
+  "entry": "alc118",
+  "num": "105",
+  "motto": "In studiosum captum Amore",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0125.jpg",
+  "id": "alc119",
+  "status": "ok",
+  "page_box": [
+   0.3,
+   3.19,
+   97.62,
+   91.85
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16.54,
+   14.57,
+   63.56,
+   39.13
+  ],
+  "bytes": 2534700,
+  "tails": [],
+  "initials": [],
+  "page": 119,
+  "entry": "alc119",
+  "num": "106",
+  "motto": "Ἀντέρως, id amor virtutis. Διαλογικῶς.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0126.jpg",
+  "id": "alc120",
+  "status": "ok",
+  "page_box": [
+   1.36,
+   3.98,
+   97.35,
+   89.96
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.71,
+   16.2,
+   62.54,
+   44.08
+  ],
+  "bytes": 2479350,
+  "tails": [],
+  "initials": [],
+  "page": 120,
+  "entry": "alc120",
+  "num": "107",
+  "motto": "Ἀντέρως, Amor virtutis, alium Cupidinem superans.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0127.jpg",
+  "id": "alc121",
+  "status": "ok",
+  "page_box": [
+   1.48,
+   3.83,
+   94.67,
+   90.06
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16.52,
+   15.83,
+   63.49,
+   43.94
+  ],
+  "bytes": 2533512,
+  "tails": [],
+  "initials": [],
+  "page": 121,
+  "entry": "alc121",
+  "num": "108",
+  "motto": "Dulcia quandoque amara fieri",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0128.jpg",
+  "id": "alc122",
+  "status": "ok",
+  "page_box": [
+   4.43,
+   4.4,
+   93.77,
+   89.67
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   20.06,
+   15.44,
+   62.13,
+   41.93
+  ],
+  "bytes": 2533120,
+  "tails": [],
+  "initials": [],
+  "page": 122,
+  "entry": "alc122",
+  "num": "109",
+  "motto": "Ferè simile ex Theocrito",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0129.jpg",
+  "id": "alc123",
+  "status": "ok",
+  "page_box": [
+   1.68,
+   3.5,
+   97.6,
+   91.41
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18.27,
+   15.32,
+   62.63,
+   41.36
+  ],
+  "bytes": 2632182,
+  "tails": [],
+  "initials": [],
+  "page": 123,
+  "entry": "alc123",
+  "num": "110",
+  "motto": "In statuam Amoris",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0130.jpg",
+  "id": "alc124",
+  "status": "ok",
+  "page_box": [
+   2.33,
+   3.84,
+   96.27,
+   90.21
+  ],
+  "kinds": [
+   "page",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания"
+  ],
+  "bytes": 1543920,
+  "tails": [],
+  "initials": [],
+  "page": 124,
+  "entry": "alc123",
+  "num": "110",
+  "motto": "In statuam Amoris",
+  "first_page_of_entry": false
+ },
+ {
+  "frame": "frame_0131.jpg",
+  "id": "alc125",
+  "status": "ok",
+  "page_box": [
+   0,
+   4.12,
+   97,
+   90.2
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16.54,
+   15.87,
+   63.06,
+   41.83
+  ],
+  "bytes": 2729166,
+  "tails": [],
+  "initials": [],
+  "page": 125,
+  "entry": "alc125",
+  "num": "111",
+  "motto": "In obliuionem patriæ",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0132.jpg",
+  "id": "alc126",
+  "status": "ok",
+  "page_box": [
+   2.73,
+   3.96,
+   96.02,
+   89.63
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.93,
+   15.35,
+   62.18,
+   37.66
+  ],
+  "bytes": 2535022,
+  "tails": [],
+  "initials": [],
+  "page": 126,
+  "entry": "alc126",
+  "num": "112",
+  "motto": "Sirenes",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0133.jpg",
+  "id": "alc127",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.29,
+   97.29,
+   91.42
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16.97,
+   16.78,
+   61.9,
+   41.46
+  ],
+  "bytes": 2273136,
+  "tails": [],
+  "initials": [],
+  "page": 127,
+  "entry": "alc127",
+  "num": "113",
+  "motto": "Senex puellam amans",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0134.jpg",
+  "id": "alc128",
+  "status": "ok",
+  "page_box": [
+   3.12,
+   3.92,
+   95.78,
+   91.02
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18.85,
+   16.76,
+   63.4,
+   40.89
+  ],
+  "bytes": 2486988,
+  "tails": [],
+  "initials": [],
+  "page": 128,
+  "entry": "alc128",
+  "num": "114",
+  "motto": "In colores",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0135.jpg",
+  "id": "alc129",
+  "status": "ok",
+  "page_box": [
+   0.04,
+   2.9,
+   97.32,
+   92.64
+  ],
+  "kinds": [
+   "page",
+   "tail",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "концовка",
+   "Текстовая область для вычитания"
+  ],
+  "bytes": 1729092,
+  "tails": [
+   [
+    20.75,
+    54.76,
+    51.61,
+    16.46
+   ]
+  ],
+  "initials": [],
+  "page": 129,
+  "entry": "alc128",
+  "num": "114",
+  "motto": "In colores",
+  "first_page_of_entry": false
+ },
+ {
+  "frame": "frame_0136.jpg",
+  "id": "alc130",
+  "status": "ok",
+  "page_box": [
+   2.22,
+   4.17,
+   95.73,
+   90.67
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   20.01,
+   15.95,
+   62.2,
+   46.51
+  ],
+  "bytes": 2313798,
+  "tails": [],
+  "initials": [],
+  "page": 130,
+  "entry": "alc130",
+  "num": "115",
+  "motto": "Fortuna. Virtuti, Fortuna comes.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0137.jpg",
+  "id": "alc131",
+  "status": "ok",
+  "page_box": [
+   1.61,
+   2.89,
+   96.38,
+   91.42
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18.23,
+   15.32,
+   62.59,
+   42.83
+  ],
+  "bytes": 2631382,
+  "tails": [],
+  "initials": [],
+  "page": 131,
+  "entry": "alc131",
+  "num": "116",
+  "motto": "Fortuna, Virtutem superans",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0138.jpg",
+  "id": "alc132",
+  "status": "ok",
+  "page_box": [
+   1.41,
+   3.41,
+   96.82,
+   90.67
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18.47,
+   15.23,
+   62.88,
+   45.63
+  ],
+  "bytes": 2539676,
+  "tails": [],
+  "initials": [],
+  "page": 132,
+  "entry": "alc132",
+  "num": "117",
+  "motto": "Paupertatem summis ingenijs obesse, ne prouehantur",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0139.jpg",
+  "id": "alc133",
+  "status": "ok",
+  "page_box": [
+   0.91,
+   3.82,
+   96.76,
+   90.57
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16.74,
+   15.42,
+   63.81,
+   33.51
+  ],
+  "bytes": 2415798,
+  "tails": [],
+  "initials": [],
+  "page": 133,
+  "entry": "alc133",
+  "num": "118",
+  "motto": "In occasionem. Διχλογισμῶς.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0140.jpg",
+  "id": "alc134",
+  "status": "ok",
+  "page_box": [
+   2.46,
+   4.52,
+   96.22,
+   90.01
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "tail",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "концовка",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.55,
+   16.36,
+   63.04,
+   40.56
+  ],
+  "bytes": 2519204,
+  "tails": [
+   [
+    26.83,
+    63.09,
+    45.81,
+    12.54
+   ]
+  ],
+  "initials": [],
+  "page": 134,
+  "entry": "alc134",
+  "num": "119",
+  "motto": "In subitum terrorem",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0141.jpg",
+  "id": "alc135",
+  "status": "ok",
+  "page_box": [
+   0,
+   2.82,
+   96.57,
+   90.71
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   15.54,
+   14.57,
+   63.54,
+   41.23
+  ],
+  "bytes": 2276316,
+  "tails": [],
+  "initials": [],
+  "page": 135,
+  "entry": "alc135",
+  "num": "120",
+  "motto": "In illaudata laudantes",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0142.jpg",
+  "id": "alc136",
+  "status": "ok",
+  "page_box": [
+   1.77,
+   3.16,
+   95.85,
+   89.74
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18.36,
+   14.89,
+   63.01,
+   42.61
+  ],
+  "bytes": 2682934,
+  "tails": [],
+  "initials": [],
+  "page": 136,
+  "entry": "alc136",
+  "num": "121",
+  "motto": "In momentaneam felicitatem",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0143.jpg",
+  "id": "alc137",
+  "status": "ok",
+  "page_box": [
+   0.51,
+   3.46,
+   96.8,
+   90.1
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   17.12,
+   16.1,
+   62.29,
+   44.31
+  ],
+  "bytes": 2607836,
+  "tails": [],
+  "initials": [],
+  "page": 137,
+  "entry": "alc137",
+  "num": "122",
+  "motto": "Ex damno alterius, alterius vtilitas",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0144.jpg",
+  "id": "alc138",
+  "status": "ok",
+  "page_box": [
+   1.82,
+   2.93,
+   97.41,
+   89.45
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18.89,
+   15.91,
+   63.73,
+   42.43
+  ],
+  "bytes": 2541034,
+  "tails": [],
+  "initials": [],
+  "page": 138,
+  "entry": "alc138",
+  "num": "123",
+  "motto": "Bonis auspicijs incipiendum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0145.jpg",
+  "id": "alc139",
+  "status": "ok",
+  "page_box": [
+   0.84,
+   3.52,
+   96.19,
+   90.6
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16.03,
+   16.56,
+   63.15,
+   42.51
+  ],
+  "bytes": 2676338,
+  "tails": [],
+  "initials": [],
+  "page": 139,
+  "entry": "alc139",
+  "num": "124",
+  "motto": "Nil reliqui",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0146.jpg",
+  "id": "alc140",
+  "status": "ok",
+  "page_box": [
+   1.62,
+   3.57,
+   98.38,
+   88.72
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18.07,
+   14.65,
+   64.45,
+   44.62
+  ],
+  "bytes": 2660752,
+  "tails": [],
+  "initials": [],
+  "page": 140,
+  "entry": "alc140",
+  "num": "125",
+  "motto": "Malè parta, malè dilabuntur",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0147.jpg",
+  "id": "alc141",
+  "status": "ok",
+  "page_box": [
+   0,
+   2.63,
+   96.29,
+   92.96
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   15.74,
+   14.42,
+   61.97,
+   40.78
+  ],
+  "bytes": 2627368,
+  "tails": [],
+  "initials": [],
+  "page": 141,
+  "entry": "alc141",
+  "num": "126",
+  "motto": "Semper presto esse infortunia",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0148.jpg",
+  "id": "alc142",
+  "status": "ok",
+  "page_box": [
+   4.11,
+   3.4,
+   95.89,
+   90.54
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   21.32,
+   14.52,
+   61.57,
+   41.94
+  ],
+  "bytes": 2507232,
+  "tails": [],
+  "initials": [],
+  "page": 142,
+  "entry": "alc142",
+  "num": "127",
+  "motto": "Remedia in arduo, mala in prono esse",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0149.jpg",
+  "id": "alc143",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.51,
+   96.32,
+   90.92
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   15.65,
+   15.85,
+   63.24,
+   45.21
+  ],
+  "bytes": 2503960,
+  "tails": [],
+  "initials": [],
+  "page": 143,
+  "entry": "alc143",
+  "num": "128",
+  "motto": "Honor. Ex arduis perpetuum nomen.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0150.jpg",
+  "id": "alc144",
+  "status": "ok",
+  "page_box": [
+   3.44,
+   3.17,
+   96.48,
+   90.18
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   20.21,
+   15.12,
+   63.35,
+   42.82
+  ],
+  "bytes": 2756556,
+  "tails": [],
+  "initials": [],
+  "page": 144,
+  "entry": "alc144",
+  "num": "129",
+  "motto": "Ex literarum studijs immortalitatem acquiri",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0151.jpg",
+  "id": "alc145",
+  "status": "ok",
+  "page_box": [
+   0,
+   2.87,
+   98.01,
+   91.48
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18.35,
+   14.98,
+   61.08,
+   43.48
+  ],
+  "bytes": 2472910,
+  "tails": [],
+  "initials": [],
+  "page": 145,
+  "entry": "alc145",
+  "num": "130",
+  "motto": "Tumulus Ioannis Galeacij Vicecomitis, primi Ducis Mediol.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0152.jpg",
+  "id": "alc146",
+  "status": "ok",
+  "page_box": [
+   2.16,
+   3.2,
+   97.84,
+   90
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   21.7,
+   15.35,
+   61.42,
+   41.66
+  ],
+  "bytes": 2618716,
+  "tails": [],
+  "initials": [],
+  "page": 146,
+  "entry": "alc146",
+  "num": "131",
+  "motto": "Optimus ciuis",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0153.jpg",
+  "id": "alc147",
+  "status": "ok",
+  "page_box": [
+   1.44,
+   3.3,
+   98.56,
+   91.52
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.24,
+   15.98,
+   61.26,
+   45.22
+  ],
+  "bytes": 2478032,
+  "tails": [],
+  "initials": [],
+  "page": 147,
+  "entry": "alc147",
+  "num": "132",
+  "motto": "Strenuorum immortale nomen",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0154.jpg",
+  "id": "alc148",
+  "status": "ok",
+  "page_box": [
+   2.11,
+   4.16,
+   95.42,
+   91.36
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18.46,
+   16.91,
+   62.05,
+   41.61
+  ],
+  "bytes": 2620920,
+  "tails": [],
+  "initials": [],
+  "page": 148,
+  "entry": "alc148",
+  "num": "133",
+  "motto": "Nobiles & generosi",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0155.jpg",
+  "id": "alc149",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.44,
+   96.25,
+   91.38
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16.8,
+   15.91,
+   61.36,
+   48.18
+  ],
+  "bytes": 2272820,
+  "tails": [],
+  "initials": [],
+  "page": 149,
+  "entry": "alc149",
+  "num": "134",
+  "motto": "Duodecim certamina Herculis. Allegoricos.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0156.jpg",
+  "id": "alc150",
+  "status": "ok",
+  "page_box": [
+   4.33,
+   4.32,
+   95.67,
+   90.35
+  ],
+  "kinds": [
+   "page",
+   "tail",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "концовка",
+   "Текстовая область для вычитания"
+  ],
+  "bytes": 1500062,
+  "tails": [
+   [
+    29.57,
+    45.86,
+    46.02,
+    14.35
+   ]
+  ],
+  "initials": [],
+  "page": 150,
+  "entry": "alc149",
+  "num": "134",
+  "motto": "Duodecim certamina Herculis. Allegoricos.",
+  "first_page_of_entry": false
+ },
+ {
+  "frame": "frame_0157.jpg",
+  "id": "alc151",
+  "status": "ok",
+  "page_box": [
+   0.72,
+   4.26,
+   96.71,
+   90.47
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16.62,
+   17.01,
+   64.17,
+   42.66
+  ],
+  "bytes": 2600676,
+  "tails": [],
+  "initials": [],
+  "page": 151,
+  "entry": "alc151",
+  "num": "135",
+  "motto": "In nothos",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0158.jpg",
+  "id": "alc152",
+  "status": "ok",
+  "page_box": [
+   2.67,
+   4.27,
+   97.33,
+   90.59
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   20.8,
+   17.27,
+   62.17,
+   42.69
+  ],
+  "bytes": 2533208,
+  "tails": [],
+  "initials": [],
+  "page": 152,
+  "entry": "alc152",
+  "num": "136",
+  "motto": "Imparilitas",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0159.jpg",
+  "id": "alc153",
+  "status": "ok",
+  "page_box": [
+   1.13,
+   3.23,
+   97,
+   92.48
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18.64,
+   16.46,
+   61.03,
+   43.17
+  ],
+  "bytes": 1915860,
+  "tails": [],
+  "initials": [],
+  "page": 153,
+  "entry": "alc153",
+  "num": "137",
+  "motto": "In descifcentes",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0160.jpg",
+  "id": "alc154",
+  "status": "ok",
+  "page_box": [
+   3.24,
+   4.23,
+   95.9,
+   91.12
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   20.85,
+   16.76,
+   60.69,
+   41.14
+  ],
+  "bytes": 1996000,
+  "tails": [],
+  "initials": [],
+  "page": 154,
+  "entry": "alc154",
+  "num": "138",
+  "motto": "Aemulatio impar",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0161.jpg",
+  "id": "alc155",
+  "status": "ok",
+  "page_box": [
+   0,
+   4.51,
+   97.04,
+   90.83
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   15.96,
+   16.3,
+   62.89,
+   41.23
+  ],
+  "bytes": 2608660,
+  "tails": [],
+  "initials": [],
+  "page": 155,
+  "entry": "alc155",
+  "num": "139",
+  "motto": "Albutij ad Alciatum, suadentis vt de tumultibus Italicis se subducat, & in Gallia profiteatur",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0162.jpg",
+  "id": "alc156",
+  "status": "ok",
+  "page_box": [
+   5.02,
+   4.37,
+   94.98,
+   89.85
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   21.98,
+   15.43,
+   62.66,
+   46.37
+  ],
+  "bytes": 2544194,
+  "tails": [],
+  "initials": [],
+  "page": 156,
+  "entry": "alc156",
+  "num": "140",
+  "motto": "Princeps. Princeps subditorum incolumitatem procurans.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0163.jpg",
+  "id": "alc157",
+  "status": "ok",
+  "page_box": [
+   0,
+   2.97,
+   95.77,
+   92.06
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   15.89,
+   14.77,
+   62.34,
+   38.52
+  ],
+  "bytes": 2620442,
+  "tails": [],
+  "initials": [],
+  "page": 157,
+  "entry": "alc157",
+  "num": "141",
+  "motto": "In Senatum boni principis. Dialogismus.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0164.jpg",
+  "id": "alc158",
+  "status": "ok",
+  "page_box": [
+   4.77,
+   2.46,
+   95.23,
+   91.1
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   22.04,
+   15.13,
+   61.55,
+   45.15
+  ],
+  "bytes": 2367146,
+  "tails": [],
+  "initials": [],
+  "page": 158,
+  "entry": "alc158",
+  "num": "142",
+  "motto": "Quod non capit Christus, rapit fiscus",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0165.jpg",
+  "id": "alc159",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.69,
+   94.31,
+   88.4
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   15.8,
+   16.19,
+   61.26,
+   44.44
+  ],
+  "bytes": 2447720,
+  "tails": [],
+  "initials": [],
+  "page": 159,
+  "entry": "alc159",
+  "num": "143",
+  "motto": "Opulentia tyranni paupertas subiectorum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0166.jpg",
+  "id": "alc160",
+  "status": "ok",
+  "page_box": [
+   3.36,
+   3.27,
+   96.48,
+   91.2
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   20.99,
+   15.99,
+   61.81,
+   40.68
+  ],
+  "bytes": 2286724,
+  "tails": [],
+  "initials": [],
+  "page": 160,
+  "entry": "alc160",
+  "num": "144",
+  "motto": "Consiliarij Principum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0167.jpg",
+  "id": "alc161",
+  "status": "ok",
+  "page_box": [
+   0,
+   4.03,
+   94.86,
+   88.82
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16.98,
+   15.7,
+   59.44,
+   41.66
+  ],
+  "bytes": 2468820,
+  "tails": [],
+  "initials": [],
+  "page": 161,
+  "entry": "alc161",
+  "num": "145",
+  "motto": "Principis clementia",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0168.jpg",
+  "id": "alc162",
+  "status": "ok",
+  "page_box": [
+   2.54,
+   5.06,
+   96.05,
+   90.19
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   20.6,
+   16.62,
+   60.6,
+   44.22
+  ],
+  "bytes": 2410456,
+  "tails": [],
+  "initials": [],
+  "page": 162,
+  "entry": "alc162",
+  "num": "146",
+  "motto": "Respublica. Salus publica.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0169.jpg",
+  "id": "alc163",
+  "status": "ok",
+  "page_box": [
+   0,
+   5.03,
+   94.15,
+   86.84
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16,
+   16.47,
+   60.15,
+   39.88
+  ],
+  "bytes": 2488448,
+  "tails": [],
+  "initials": [],
+  "page": 163,
+  "entry": "alc163",
+  "num": "147",
+  "motto": "Respublica liberata",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0170.jpg",
+  "id": "alc164",
+  "status": "ok",
+  "page_box": [
+   3.59,
+   4.27,
+   96.41,
+   89.35
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   20.95,
+   16.05,
+   62.3,
+   44.45
+  ],
+  "bytes": 2471070,
+  "tails": [],
+  "initials": [],
+  "page": 164,
+  "entry": "alc164",
+  "num": "148",
+  "motto": "Vita. In vitam humanam.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0171.jpg",
+  "id": "alc165",
+  "status": "ok",
+  "page_box": [
+   0,
+   2.72,
+   93.99,
+   87.94
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   14.7,
+   15.44,
+   62.47,
+   42.18
+  ],
+  "bytes": 2459384,
+  "tails": [],
+  "initials": [],
+  "page": 165,
+  "entry": "alc165",
+  "num": "149",
+  "motto": "Aere quandoque salutem redimendam",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0172.jpg",
+  "id": "alc166",
+  "status": "ok",
+  "page_box": [
+   3.45,
+   4.5,
+   95.78,
+   89.35
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   21.16,
+   16.7,
+   61.9,
+   44.17
+  ],
+  "bytes": 2552666,
+  "tails": [],
+  "initials": [],
+  "page": 166,
+  "entry": "alc166",
+  "num": "150",
+  "motto": "Mors. Cum laruis non luctandum.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0173.jpg",
+  "id": "alc167",
+  "status": "ok",
+  "page_box": [
+   0,
+   2.24,
+   94.64,
+   88.86
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   17.63,
+   13.85,
+   59.65,
+   30.01
+  ],
+  "bytes": 2695064,
+  "tails": [],
+  "initials": [],
+  "page": 167,
+  "entry": "alc167",
+  "num": "151",
+  "motto": "De Morte, & Amore",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0174.jpg",
+  "id": "alc168",
+  "status": "ok",
+  "page_box": [
+   2.49,
+   3.39,
+   96.72,
+   90.89
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "tail",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "концовка",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   20.94,
+   15.56,
+   60.65,
+   41.47
+  ],
+  "bytes": 2812108,
+  "tails": [
+   [
+    26.99,
+    64.66,
+    47.61,
+    12
+   ]
+  ],
+  "initials": [],
+  "page": 168,
+  "entry": "alc168",
+  "num": "152",
+  "motto": "In formosam fato præreptam",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0175.jpg",
+  "id": "alc169",
+  "status": "ok",
+  "page_box": [
+   4.01,
+   3.21,
+   93.6,
+   87.55
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.51,
+   14.52,
+   61.08,
+   35.3
+  ],
+  "bytes": 2398468,
+  "tails": [],
+  "initials": [],
+  "page": 169,
+  "entry": "alc169",
+  "num": "153",
+  "motto": "In mortem præproperam",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0176.jpg",
+  "id": "alc170",
+  "status": "ok",
+  "page_box": [
+   1.44,
+   2.91,
+   96.63,
+   90.26
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.65,
+   15.73,
+   61.28,
+   43.64
+  ],
+  "bytes": 2410142,
+  "tails": [],
+  "initials": [],
+  "page": 170,
+  "entry": "alc170",
+  "num": "154",
+  "motto": "Terminus",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0177.jpg",
+  "id": "alc171",
+  "status": "ok",
+  "page_box": [
+   2.55,
+   3.16,
+   95.05,
+   88.85
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.59,
+   14.27,
+   61.26,
+   42.36
+  ],
+  "bytes": 2397006,
+  "tails": [],
+  "initials": [],
+  "page": 171,
+  "entry": "alc171",
+  "num": "155",
+  "motto": "Opulenti hæreditas",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0178.jpg",
+  "id": "alc172",
+  "status": "ok",
+  "page_box": [
+   1.94,
+   3.2,
+   96.84,
+   90.44
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.11,
+   15.69,
+   62.17,
+   46.06
+  ],
+  "bytes": 2333816,
+  "tails": [],
+  "initials": [],
+  "page": 172,
+  "entry": "alc172",
+  "num": "156",
+  "motto": "Amicitia. Amicitia etiam post mortem durans.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0179.jpg",
+  "id": "alc173",
+  "status": "ok",
+  "page_box": [
+   1.57,
+   3.87,
+   95.23,
+   88.33
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18.17,
+   15.95,
+   61.13,
+   43.13
+  ],
+  "bytes": 2273212,
+  "tails": [],
+  "initials": [],
+  "page": 173,
+  "entry": "alc173",
+  "num": "157",
+  "motto": "Mutuum auxilium",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0180.jpg",
+  "id": "alc174",
+  "status": "ok",
+  "page_box": [
+   1.97,
+   4.16,
+   96.05,
+   89.69
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.16,
+   16.73,
+   62.07,
+   43.3
+  ],
+  "bytes": 2421242,
+  "tails": [],
+  "initials": [],
+  "page": 174,
+  "entry": "alc174",
+  "num": "158",
+  "motto": "Auxilium nunquàm deficiens",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0181.jpg",
+  "id": "alc175",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.26,
+   95.42,
+   89.41
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16.79,
+   15.55,
+   60.66,
+   40.92
+  ],
+  "bytes": 2440076,
+  "tails": [],
+  "initials": [],
+  "page": 175,
+  "entry": "alc175",
+  "num": "159",
+  "motto": "Gratiae",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0182.jpg",
+  "id": "alc176",
+  "status": "ok",
+  "page_box": [
+   3.89,
+   3.73,
+   93.71,
+   91.13
+  ],
+  "kinds": [
+   "page",
+   "tail",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "концовка",
+   "Текстовая область для вычитания"
+  ],
+  "bytes": 1731230,
+  "tails": [
+   [
+    25.25,
+    49.11,
+    48.77,
+    15.48
+   ]
+  ],
+  "initials": [],
+  "page": 176,
+  "entry": "alc175",
+  "num": "159",
+  "motto": "Gratiae",
+  "first_page_of_entry": false
+ },
+ {
+  "frame": "frame_0183.jpg",
+  "id": "alc177",
+  "status": "ok",
+  "page_box": [
+   2.02,
+   3.62,
+   94.77,
+   89.31
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.03,
+   15.18,
+   60.29,
+   44.05
+  ],
+  "bytes": 2023374,
+  "tails": [],
+  "initials": [],
+  "page": 177,
+  "entry": "alc177",
+  "num": "160",
+  "motto": "Hostilitas. In detractores.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0184.jpg",
+  "id": "alc178",
+  "status": "ok",
+  "page_box": [
+   2.75,
+   3.47,
+   95.7,
+   90.38
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.91,
+   15.63,
+   61.07,
+   41.58
+  ],
+  "bytes": 2478102,
+  "tails": [],
+  "initials": [],
+  "page": 178,
+  "entry": "alc178",
+  "num": "161",
+  "motto": "Inanis impetus",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0185.jpg",
+  "id": "alc179",
+  "status": "ok",
+  "page_box": [
+   4.75,
+   2.86,
+   93.51,
+   88.68
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   21.1,
+   14.29,
+   60.55,
+   42.6
+  ],
+  "bytes": 2499724,
+  "tails": [],
+  "initials": [],
+  "page": 179,
+  "entry": "alc179",
+  "num": "162",
+  "motto": "Aliquid mali, propter vicinum malum. Prosopopoeia.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0186.jpg",
+  "id": "alc180",
+  "status": "ok",
+  "page_box": [
+   0.75,
+   3.01,
+   95.64,
+   91.21
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18.11,
+   15.56,
+   61.78,
+   47.68
+  ],
+  "bytes": 2498182,
+  "tails": [],
+  "initials": [],
+  "page": 180,
+  "entry": "alc180",
+  "num": "163",
+  "motto": "In eum qui truculentia suorum perierit. Prosopopeia.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0187.jpg",
+  "id": "alc181",
+  "status": "ok",
+  "page_box": [
+   3.54,
+   4.71,
+   94.09,
+   89.55
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   20,
+   15.95,
+   59.75,
+   41.17
+  ],
+  "bytes": 2584140,
+  "tails": [],
+  "initials": [],
+  "page": 181,
+  "entry": "alc181",
+  "num": "164",
+  "motto": "Ἐχθρῶν ἄδωρα δῶρα, In dona hostium",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0188.jpg",
+  "id": "alc182",
+  "status": "ok",
+  "page_box": [
+   2.27,
+   5.5,
+   94.33,
+   90.32
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.93,
+   17.38,
+   59.69,
+   42.16
+  ],
+  "bytes": 2619660,
+  "tails": [],
+  "initials": [],
+  "page": 182,
+  "entry": "alc182",
+  "num": "165",
+  "motto": "A minimis quoque timendum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0189.jpg",
+  "id": "alc183",
+  "status": "ok",
+  "page_box": [
+   2.29,
+   3.5,
+   94.16,
+   89.44
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   19.11,
+   15.84,
+   59.43,
+   42.77
+  ],
+  "bytes": 2376302,
+  "tails": [],
+  "initials": [],
+  "page": 183,
+  "entry": "alc183",
+  "num": "166",
+  "motto": "Obnoxia infirmitas",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0190.jpg",
+  "id": "alc184",
+  "status": "ok",
+  "page_box": [
+   1.02,
+   4.05,
+   96.86,
+   91.42
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18.57,
+   16.57,
+   61.57,
+   42.97
+  ],
+  "bytes": 2504904,
+  "tails": [],
+  "initials": [],
+  "page": 184,
+  "entry": "alc184",
+  "num": "167",
+  "motto": "Vel post mortem formidolosi",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0191.jpg",
+  "id": "alc185",
+  "status": "ok",
+  "page_box": [
+   1.61,
+   4.29,
+   93.25,
+   88.96
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   18.06,
+   16.9,
+   60.24,
+   43.21
+  ],
+  "bytes": 2346250,
+  "tails": [],
+  "initials": [],
+  "page": 185,
+  "entry": "alc185",
+  "num": "168",
+  "motto": "Iusta vindicta",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0192.jpg",
+  "id": "alc186",
+  "status": "ok",
+  "page_box": [
+   1.91,
+   4.01,
+   96.24,
+   91.15
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   20.21,
+   17.3,
+   61.03,
+   41.77
+  ],
+  "bytes": 2256886,
+  "tails": [],
+  "initials": [],
+  "page": 186,
+  "entry": "alc186",
+  "num": "169",
+  "motto": "Iusta vltio",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0193.jpg",
+  "id": "alc187",
+  "status": "ok",
+  "page_box": [
+   0,
+   4.5,
+   94.44,
+   88.89
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   15.22,
+   16.97,
+   61.93,
+   42.12
+  ],
+  "bytes": 2610852,
+  "tails": [],
+  "initials": [],
+  "page": 187,
+  "entry": "alc187",
+  "num": "170",
+  "motto": "Parem delinquentis, & suasoris culpam esse",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0194.jpg",
+  "id": "alc188",
+  "status": "ok",
+  "page_box": [
+   3.45,
+   3.8,
+   96.55,
+   90.25
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "гравюра",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   20.97,
+   16.28,
+   62.11,
+   43.88
+  ],
+  "bytes": 2551000,
+  "tails": [],
+  "initials": [],
+  "page": 188,
+  "entry": "alc188",
+  "num": "171",
+  "motto": "Alius peccat, alius plectitur",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0195.jpg",
+  "id": "alc189",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.16,
+   95.11,
+   87.55
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "Текстовая область для вычитания",
+   "гбтир"
+  ],
+  "pic_box": [
+   16.13,
+   14.71,
+   61.63,
+   39.83
+  ],
+  "bytes": 2581488,
+  "tails": [],
+  "initials": [],
+  "page": 189,
+  "entry": "alc189",
+  "num": "172",
+  "motto": "Insani gladius",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0196.jpg",
+  "id": "alc190",
+  "status": "ok",
+  "page_box": [
+   5.8,
+   3.27,
+   94.2,
+   89.86
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   23.39,
+   15.09,
+   63.24,
+   42.08
+  ],
+  "bytes": 2437046,
+  "tails": [],
+  "initials": [],
+  "page": 190,
+  "entry": "alc190",
+  "num": "173",
+  "motto": "Pax",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0197.jpg",
+  "id": "alc191",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.12,
+   96.49,
+   88.19
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   16.81,
+   13.98,
+   61.64,
+   42.47
+  ],
+  "bytes": 2523018,
+  "tails": [],
+  "initials": [],
+  "page": 191,
+  "entry": "alc191",
+  "num": "174",
+  "motto": "Ex bello pax",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0198.jpg",
+  "id": "alc192",
+  "status": "ok",
+  "page_box": [
+   4.74,
+   3.13,
+   95.26,
+   89.97
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   22.06,
+   14.57,
+   62.37,
+   42.21
+  ],
+  "bytes": 2403430,
+  "tails": [],
+  "initials": [],
+  "page": 192,
+  "entry": "alc192",
+  "num": "175",
+  "motto": "Ex pace vbertas",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0199.jpg",
+  "id": "alc193",
+  "status": "ok",
+  "page_box": [
+   2.24,
+   2.89,
+   95.56,
+   88.91
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   19.02,
+   14.33,
+   61.49,
+   43.3
+  ],
+  "bytes": 2785300,
+  "tails": [],
+  "initials": [],
+  "page": 193,
+  "entry": "alc193",
+  "num": "176",
+  "motto": "Doctos doctis obloqui nefas esse",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0200.jpg",
+  "id": "alc194",
+  "status": "ok",
+  "page_box": [
+   0.28,
+   3.71,
+   97.28,
+   89.21
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   19.23,
+   14.52,
+   62.17,
+   38.02
+  ],
+  "bytes": 2721512,
+  "tails": [],
+  "initials": [],
+  "page": 194,
+  "entry": "alc194",
+  "num": "177",
+  "motto": "Eloquentia Fortitudine præstantior",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0201.jpg",
+  "id": "alc195",
+  "status": "ok",
+  "page_box": [
+   1.67,
+   3.58,
+   96.22,
+   89.53
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   20.38,
+   15.38,
+   59.88,
+   41.02
+  ],
+  "bytes": 2499990,
+  "tails": [],
+  "initials": [],
+  "page": 195,
+  "entry": "alc195",
+  "num": "178",
+  "motto": "Facundia difficilis",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0202.jpg",
+  "id": "alc196",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.72,
+   97.54,
+   91.52
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   17.48,
+   15.32,
+   62.03,
+   46.13
+  ],
+  "bytes": 2490762,
+  "tails": [],
+  "initials": [],
+  "page": 196,
+  "entry": "alc196",
+  "num": "179",
+  "motto": "Antiquissima quæque commentitia",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0203.jpg",
+  "id": "alc197",
+  "status": "ok",
+  "page_box": [
+   4.86,
+   4.68,
+   95.14,
+   89.34
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   20.18,
+   17,
+   61.9,
+   41
+  ],
+  "bytes": 2654222,
+  "tails": [],
+  "initials": [],
+  "page": 197,
+  "entry": "alc197",
+  "num": "180",
+  "motto": "Insignia Poetarum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0204.jpg",
+  "id": "alc198",
+  "status": "ok",
+  "page_box": [
+   0.57,
+   3.63,
+   98.57,
+   91.17
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   17.71,
+   15.96,
+   63.79,
+   31.41
+  ],
+  "bytes": 2632424,
+  "tails": [],
+  "initials": [],
+  "page": 198,
+  "entry": "alc198",
+  "num": "181",
+  "motto": "Musicam Dijs curæ esse",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0205.jpg",
+  "id": "alc199",
+  "status": "ok",
+  "page_box": [
+   3.71,
+   3.13,
+   94.1,
+   89.25
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   18.98,
+   14.82,
+   62.72,
+   37.11
+  ],
+  "bytes": 2817646,
+  "tails": [],
+  "initials": [],
+  "page": 199,
+  "entry": "alc199",
+  "num": "182",
+  "motto": "Litera occidit, spiritus viuificat",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0206.jpg",
+  "id": "alc200",
+  "status": "ok",
+  "page_box": [
+   1.04,
+   3.82,
+   98.06,
+   91.04
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   18.89,
+   16.27,
+   62.67,
+   42.49
+  ],
+  "bytes": 2653222,
+  "tails": [],
+  "initials": [],
+  "page": 200,
+  "entry": "alc200",
+  "num": "183",
+  "motto": "Dicta septem sapientum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0207.jpg",
+  "id": "alc201",
+  "status": "ok",
+  "page_box": [
+   1.87,
+   4.31,
+   95.24,
+   88.33
+  ],
+  "kinds": [
+   "page",
+   "tail",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "концовка",
+   "Текстовая область для вычитания"
+  ],
+  "bytes": 1691336,
+  "tails": [
+   [
+    24.64,
+    52.88,
+    45.08,
+    12.93
+   ]
+  ],
+  "initials": [],
+  "page": 201,
+  "entry": "alc200",
+  "num": "183",
+  "motto": "Dicta septem sapientum",
+  "first_page_of_entry": false
+ },
+ {
+  "frame": "frame_0208.jpg",
+  "id": "alc202",
+  "status": "ok",
+  "page_box": [
+   2.93,
+   3.78,
+   95.56,
+   90.98
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   22.35,
+   15.29,
+   60.44,
+   39.61
+  ],
+  "bytes": 2559154,
+  "tails": [],
+  "initials": [],
+  "page": 202,
+  "entry": "alc202",
+  "num": "184",
+  "motto": "Submouendam ignorantiam",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0209.jpg",
+  "id": "alc203",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.64,
+   94.73,
+   88.48
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   16.41,
+   14.81,
+   61.34,
+   42.37
+  ],
+  "bytes": 2486818,
+  "tails": [],
+  "initials": [],
+  "page": 203,
+  "entry": "alc203",
+  "num": "185",
+  "motto": "Mentem, non formam plus pollere",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0210.jpg",
+  "id": "alc204",
+  "status": "ok",
+  "page_box": [
+   4.42,
+   3.6,
+   95.58,
+   90.87
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   20.39,
+   15.76,
+   62.77,
+   43.11
+  ],
+  "bytes": 2609112,
+  "tails": [],
+  "initials": [],
+  "page": 204,
+  "entry": "alc204",
+  "num": "186",
+  "motto": "Diues indoctus",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0211.jpg",
+  "id": "alc205",
+  "status": "ok",
+  "page_box": [
+   0,
+   4.37,
+   94.8,
+   88.34
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   15.14,
+   16.25,
+   62.33,
+   44.48
+  ],
+  "bytes": 2810618,
+  "tails": [],
+  "initials": [],
+  "page": 205,
+  "entry": "alc205",
+  "num": "187",
+  "motto": "Matrimonium. In fidem vxoriam.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0212.jpg",
+  "id": "alc206",
+  "status": "ok",
+  "page_box": [
+   3.52,
+   4.31,
+   96.48,
+   90.28
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   20.33,
+   17.5,
+   62.82,
+   43.22
+  ],
+  "bytes": 2810884,
+  "tails": [],
+  "initials": [],
+  "page": 206,
+  "entry": "alc206",
+  "num": "188",
+  "motto": "Reuerentiam in matrimonio requiri",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0213.jpg",
+  "id": "alc207",
+  "status": "ok",
+  "page_box": [
+   0,
+   4.29,
+   93.09,
+   88.25
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   15.02,
+   16.03,
+   62.12,
+   43.24
+  ],
+  "bytes": 2491662,
+  "tails": [],
+  "initials": [],
+  "page": 207,
+  "entry": "alc207",
+  "num": "189",
+  "motto": "In fœcunditatem sibi ipsi damnosam",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0214.jpg",
+  "id": "alc208",
+  "status": "ok",
+  "page_box": [
+   3.74,
+   3.29,
+   95.82,
+   90.36
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   19.4,
+   15.56,
+   62.61,
+   42.53
+  ],
+  "bytes": 2686788,
+  "tails": [],
+  "initials": [],
+  "page": 208,
+  "entry": "alc208",
+  "num": "190",
+  "motto": "Amor filiorum",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0215.jpg",
+  "id": "alc209",
+  "status": "ok",
+  "page_box": [
+   1.89,
+   3.22,
+   95.4,
+   89.57
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   18.53,
+   15.6,
+   60.89,
+   40.92
+  ],
+  "bytes": 2419966,
+  "tails": [],
+  "initials": [],
+  "page": 209,
+  "entry": "alc209",
+  "num": "191",
+  "motto": "Pietas filiorum in parentes",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0216.jpg",
+  "id": "alc210",
+  "status": "ok",
+  "page_box": [
+   1.36,
+   3.4,
+   96.63,
+   90.79
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   19.06,
+   15.27,
+   61.63,
+   44.9
+  ],
+  "bytes": 2543490,
+  "tails": [],
+  "initials": [],
+  "page": 210,
+  "entry": "alc210",
+  "num": "192",
+  "motto": "Mulieris famam, non formam, vulgatam esse oportere. Dialogismus.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0217.jpg",
+  "id": "alc211",
+  "status": "ok",
+  "page_box": [
+   0,
+   5.57,
+   94.78,
+   88.1
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   16.34,
+   17.36,
+   61.31,
+   39.18
+  ],
+  "bytes": 2688528,
+  "tails": [],
+  "initials": [],
+  "page": 211,
+  "entry": "alc211",
+  "num": "193",
+  "motto": "In pudoris statuam",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0218.jpg",
+  "id": "alc212",
+  "status": "ok",
+  "page_box": [
+   3.42,
+   5.46,
+   95.47,
+   90.09
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   19.84,
+   17.1,
+   63.16,
+   41.96
+  ],
+  "bytes": 2608334,
+  "tails": [],
+  "initials": [],
+  "page": 212,
+  "entry": "alc212",
+  "num": "194",
+  "motto": "Nupta contagioso",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0219.jpg",
+  "id": "alc213",
+  "status": "ok",
+  "page_box": [
+   0,
+   3.89,
+   97.57,
+   87.15
+  ],
+  "kinds": [
+   "page"
+  ],
+  "holes": 0,
+  "labels": [
+   ""
+  ],
+  "bytes": 1875604,
+  "tails": [],
+  "initials": [],
+  "page": 213,
+  "entry": "alc213",
+  "num": "195",
+  "motto": "Arbores. Cupressus.",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0220.jpg",
+  "id": "alc214",
+  "status": "ok",
+  "page_box": [
+   1.99,
+   3.75,
+   96.62,
+   89.69
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   23.31,
+   15.79,
+   55.56,
+   43.51
+  ],
+  "bytes": 1951812,
+  "tails": [],
+  "initials": [],
+  "page": 214,
+  "entry": "alc214",
+  "num": "196",
+  "motto": "Quercus",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0221.jpg",
+  "id": "alc215",
+  "status": "ok",
+  "page_box": [
+   3.56,
+   4.55,
+   94.19,
+   88.95
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   26.48,
+   17.32,
+   47.63,
+   45.88
+  ],
+  "bytes": 1927878,
+  "tails": [],
+  "initials": [],
+  "page": 215,
+  "entry": "alc215",
+  "num": "197",
+  "motto": "Salix",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0222.jpg",
+  "id": "alc216",
+  "status": "ok",
+  "page_box": [
+   0,
+   4.55,
+   97.25,
+   91.6
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   23.28,
+   17.7,
+   48.89,
+   47.71
+  ],
+  "bytes": 1933194,
+  "tails": [],
+  "initials": [],
+  "page": 216,
+  "entry": "alc216",
+  "num": "198",
+  "motto": "Abies",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0223.jpg",
+  "id": "alc217",
+  "status": "ok",
+  "page_box": [
+   2.93,
+   4.37,
+   95.12,
+   88.96
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   29.81,
+   17.43,
+   44.44,
+   47.12
+  ],
+  "bytes": 1618888,
+  "tails": [],
+  "initials": [],
+  "page": 217,
+  "entry": "alc217",
+  "num": "199",
+  "motto": "Picea",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0224.jpg",
+  "id": "alc218",
+  "status": "ok",
+  "page_box": [
+   1.91,
+   3.4,
+   93.94,
+   90.89
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   27.08,
+   16.6,
+   43.32,
+   44.47
+  ],
+  "bytes": 1642212,
+  "tails": [],
+  "initials": [],
+  "page": 218,
+  "entry": "alc218",
+  "num": "200",
+  "motto": "Cotonea",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0225.jpg",
+  "id": "alc219",
+  "status": "ok",
+  "page_box": [
+   4.6,
+   5.26,
+   94.13,
+   89.5
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   28.76,
+   17.41,
+   40.59,
+   43.81
+  ],
+  "bytes": 1332708,
+  "tails": [],
+  "initials": [],
+  "page": 219,
+  "entry": "alc219",
+  "num": "201",
+  "motto": "Hedera",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0226.jpg",
+  "id": "alc220",
+  "status": "ok",
+  "page_box": [
+   1.17,
+   3.84,
+   96.09,
+   92.36
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   26.46,
+   17.88,
+   44.37,
+   47.88
+  ],
+  "bytes": 1339376,
+  "tails": [],
+  "initials": [],
+  "page": 220,
+  "entry": "alc220",
+  "num": "202",
+  "motto": "Ilex",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0227.jpg",
+  "id": "alc221",
+  "status": "ok",
+  "page_box": [
+   2.34,
+   4.7,
+   96.54,
+   88.97
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   28.7,
+   16.63,
+   42.41,
+   47.5
+  ],
+  "bytes": 1982902,
+  "tails": [],
+  "initials": [],
+  "page": 221,
+  "entry": "alc221",
+  "num": "203",
+  "motto": "Malus medica",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0228.jpg",
+  "id": "alc222",
+  "status": "ok",
+  "page_box": [
+   1.02,
+   4.04,
+   94.07,
+   90.69
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   24.15,
+   17.52,
+   43.89,
+   45.26
+  ],
+  "bytes": 1941478,
+  "tails": [],
+  "initials": [],
+  "page": 222,
+  "entry": "alc222",
+  "num": "204",
+  "motto": "Buxus",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0229.jpg",
+  "id": "alc223",
+  "status": "ok",
+  "page_box": [
+   1.65,
+   5.04,
+   95.18,
+   87.95
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   27.73,
+   18.03,
+   44.25,
+   44.56
+  ],
+  "bytes": 1951544,
+  "tails": [],
+  "initials": [],
+  "page": 223,
+  "entry": "alc223",
+  "num": "205",
+  "motto": "Morus",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0230.jpg",
+  "id": "alc224",
+  "status": "ok",
+  "page_box": [
+   2.85,
+   4.08,
+   94.31,
+   90.61
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   28.34,
+   17.28,
+   45.58,
+   46.56
+  ],
+  "bytes": 1876100,
+  "tails": [],
+  "initials": [],
+  "page": 224,
+  "entry": "alc224",
+  "num": "206",
+  "motto": "Amygdalus",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0231.jpg",
+  "id": "alc225",
+  "status": "ok",
+  "page_box": [
+   3.39,
+   5.44,
+   91.75,
+   88.8
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   27.37,
+   18.39,
+   45.95,
+   45.79
+  ],
+  "bytes": 1932740,
+  "tails": [],
+  "initials": [],
+  "page": 225,
+  "entry": "alc225",
+  "num": "207",
+  "motto": "Laurus",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0232.jpg",
+  "id": "alc226",
+  "status": "ok",
+  "page_box": [
+   2.35,
+   4.28,
+   92.37,
+   90.56
+  ],
+  "kinds": [
+   "page",
+   "pic",
+   "text"
+  ],
+  "holes": 1,
+  "labels": [
+   "",
+   "",
+   ""
+  ],
+  "pic_box": [
+   25.47,
+   18.59,
+   45.21,
+   48.89
+  ],
+  "bytes": 1783876,
+  "tails": [],
+  "initials": [],
+  "page": 226,
+  "entry": "alc226",
+  "num": "208",
+  "motto": "Populus alba",
+  "first_page_of_entry": true
+ },
+ {
+  "frame": "frame_0233.jpg",
+  "id": "fm0233",
+  "status": "noPlate"
+ },
+ {
+  "frame": "frame_0234.jpg",
+  "id": "fm0234",
+  "status": "noPlate"
+ },
+ {
+  "frame": "frame_0235.jpg",
+  "id": "fm0235",
+  "status": "noPlate"
+ },
+ {
+  "frame": "frame_0236.jpg",
+  "id": "fm0236",
+  "status": "noPlate"
+ },
+ {
+  "frame": "frame_0237.jpg",
+  "id": "fm0237",
+  "status": "noPlate"
+ },
+ {
+  "frame": "frame_0238.jpg",
+  "id": "fm0238",
+  "status": "noPlate"
+ },
+ {
+  "frame": "frame_0239.jpg",
+  "id": "fm0239",
+  "status": "noPlate"
+ },
+ {
+  "frame": "frame_0240.jpg",
+  "id": "fm0240",
+  "status": "noPlate"
+ },
+ {
+  "frame": "frame_0241.jpg",
+  "id": "fm0241",
+  "status": "noPlate"
+ },
+ {
+  "frame": "frame_0242.jpg",
+  "id": "fm0242",
+  "status": "noPlate"
+ },
+ {
+  "frame": "frame_0243.jpg",
+  "id": "fm0243",
+  "status": "noPlate"
+ },
+ {
+  "frame": "frame_0244.jpg",
+  "id": "fm0244",
+  "status": "noPlate"
+ }
+]
